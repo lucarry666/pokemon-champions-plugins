@@ -4,11 +4,14 @@
     {
       "id": "limitless_champions",
       "name": "冠军赛事",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "type": "data",
       "description": "Limitless 公开赛事：赛事列表、排名、6 只队伍、道具/特性/4 招。",
       "download_url": "https://raw.githubusercontent.com/lucarry666/pokemon-champions-plugins/main/plugins/limitless_champions/plugin.json",
-      "min_app_version": "0.3.0"
+      "min_app_version": "0.3.0",
+      "capabilities": [
+        "tournament_source"
+      ]
     }
   ]
 }
