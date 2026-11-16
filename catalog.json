@@ -1,17 +1,27 @@
 {
   "schema": 1,
-  "plugins": [
+  "id": "limitless_champions",
+  "name": "Limitless 冠军赛事",
+  "version": "1.2.0",
+  "provider": "limitless",
+  "api_base": "https://api.limitlesstcg.com",
+  "game": "VGC",
+  "formats": [
     {
-      "id": "limitless_champions",
-      "name": "冠军赛事",
-      "version": "1.1.0",
-      "type": "data",
-      "description": "Limitless 公开赛事：赛事列表、排名、6 只队伍、道具/特性/4 招。",
-      "download_url": "https://raw.githubusercontent.com/lucarry666/pokemon-champions-plugins/main/plugins/limitless_champions/plugin.json",
-      "min_app_version": "0.3.0",
-      "capabilities": [
-        "tournament_source"
-      ]
+      "id": "M-C",
+      "label": "M-C",
+      "default": true
+    }
+  ],
+  "tournament_limit": 50,
+  "refresh_seconds": 300,
+  "show_top": 32,
+  "attribution": "数据来源：Limitless（play.limitlesstcg.com）",
+  "capabilities": ["tournament_source"],
+  "provides_pages": [
+    {
+      "id": "tournament",
+      "title": "赛事"
     }
   ]
 }
