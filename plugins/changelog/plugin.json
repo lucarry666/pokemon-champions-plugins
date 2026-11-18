@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "changelog",
+  "name": "更新日志",
+  "version": "1.0.0",
+  "description": "查看伤害计算器的更新记录",
+  "capabilities": [],
+  "provides_pages": [
+    {
+      "id": "changelog",
+      "title": "更新日志",
+      "template": "text",
+      "blocks": [
+        {
+          "heading": "v0.6.2",
+          "body": "设置按钮改成圆形；速度线页面重做，支持搜索与筛选。"
+        },
+        {
+          "heading": "v0.6.0",
+          "body": "新增设置页（右上角齿轮），支持手动检查数据更新，可在 jsDelivr / GitHub 之间切换下载源。"
+        },
+        {
+          "heading": "v0.5.7",
+          "body": "属性图标改用彩色底框；页签栏支持左右滑动。"
+        }
+      ]
+    }
+  ]
+}
