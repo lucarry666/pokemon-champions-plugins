@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "version": 1,
+  "updated": "2026-11-17",
+  "notes": "初始数据版本（与当前 APK 内置数据一致）",
+  "files": [
+    "species.json",
+    "moves.json",
+    "abilities.json",
+    "items.json",
+    "natures.json",
+    "type_chart.json",
+    "rulesets.json"
+  ]
+}
