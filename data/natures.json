@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "entries": [
+    { "id": "hardy",   "name": "勤奋",   "name_en": "Hardy",   "plus": "",      "minus": "" },
+    { "id": "lonely",  "name": "怕寂寞",   "name_en": "Lonely",  "plus": "atk",   "minus": "def" },
+    { "id": "brave",   "name": "勇敢",   "name_en": "Brave",   "plus": "atk",   "minus": "spe" },
+    { "id": "adamant", "name": "固执",   "name_en": "Adamant", "plus": "atk",   "minus": "spa" },
+    { "id": "naughty", "name": "顽皮",   "name_en": "Naughty", "plus": "atk",   "minus": "spd" },
+    { "id": "bold",    "name": "大胆",   "name_en": "Bold",    "plus": "def",   "minus": "atk" },
+    { "id": "docile",  "name": "坦率",   "name_en": "Docile",  "plus": "",      "minus": "" },
+    { "id": "relaxed", "name": "悠闲",   "name_en": "Relaxed", "plus": "def",   "minus": "spe" },
+    { "id": "impish",  "name": "淘气",   "name_en": "Impish",  "plus": "def",   "minus": "spa" },
+    { "id": "lax",     "name": "乐天",   "name_en": "Lax",     "plus": "def",   "minus": "spd" },
+    { "id": "timid",   "name": "胆小",   "name_en": "Timid",   "plus": "spe",   "minus": "atk" },
+    { "id": "hasty",   "name": "急躁",   "name_en": "Hasty",   "plus": "spe",   "minus": "def" },
+    { "id": "serious", "name": "认真",   "name_en": "Serious", "plus": "",      "minus": "" },
+    { "id": "jolly",   "name": "爽朗",   "name_en": "Jolly",   "plus": "spe",   "minus": "spa" },
+    { "id": "naive",   "name": "天真",   "name_en": "Naive",   "plus": "spe",   "minus": "spd" },
+    { "id": "modest",  "name": "内敛",   "name_en": "Modest",  "plus": "spa",   "minus": "atk" },
+    { "id": "mild",    "name": "慢吞吞", "name_en": "Mild",    "plus": "spa",   "minus": "def" },
+    { "id": "quiet",   "name": "冷静",   "name_en": "Quiet",   "plus": "spa",   "minus": "spe" },
+    { "id": "bashful", "name": "害羞",   "name_en": "Bashful", "plus": "",      "minus": "" },
+    { "id": "rash",    "name": "马虎",   "name_en": "Rash",    "plus": "spa",   "minus": "spd" },
+    { "id": "calm",    "name": "温和",   "name_en": "Calm",    "plus": "spd",   "minus": "atk" },
+    { "id": "gentle",  "name": "温顺",   "name_en": "Gentle",  "plus": "spd",   "minus": "def" },
+    { "id": "sassy",   "name": "狂妄",   "name_en": "Sassy",   "plus": "spd",   "minus": "spe" },
+    { "id": "careful", "name": "慎重",   "name_en": "Careful", "plus": "spd",   "minus": "spa" },
+    { "id": "quirky",  "name": "浮躁",   "name_en": "Quirky",  "plus": "",      "minus": "" }
+  ]
+}
