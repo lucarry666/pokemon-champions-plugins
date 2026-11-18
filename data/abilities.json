@@ -1,0 +1,1518 @@
+{
+ "schema": 1,
+ "source": "Pokémon Showdown champions + PokeAPI zh-Hans",
+ "entries": [
+  {
+   "id": "overgrow",
+   "name": "茂盛",
+   "name_en": "Overgrow",
+   "implemented": false,
+   "description": "HP 较低时提升草属性招式威力。"
+  },
+  {
+   "id": "chlorophyll",
+   "name": "叶绿素",
+   "name_en": "Chlorophyll",
+   "implemented": false,
+   "description": "大晴天中速度翻倍。"
+  },
+  {
+   "id": "thick_fat",
+   "name": "厚脂肪",
+   "name_en": "Thick Fat",
+   "implemented": true,
+   "description": "受到的火、冰属性伤害减半。"
+  },
+  {
+   "id": "blaze",
+   "name": "猛火",
+   "name_en": "Blaze",
+   "implemented": false,
+   "description": "HP 较低时提升火属性招式威力。"
+  },
+  {
+   "id": "solar_power",
+   "name": "太阳之力",
+   "name_en": "Solar Power",
+   "implemented": true,
+   "description": "大晴天中特攻提升 50%。"
+  },
+  {
+   "id": "tough_claws",
+   "name": "硬爪",
+   "name_en": "Tough Claws",
+   "implemented": true,
+   "description": "接触招式威力提升 30%。"
+  },
+  {
+   "id": "drought",
+   "name": "日照",
+   "name_en": "Drought",
+   "implemented": false,
+   "description": "出场时， 会将天气变为晴朗。"
+  },
+  {
+   "id": "torrent",
+   "name": "激流",
+   "name_en": "Torrent",
+   "implemented": false,
+   "description": "HP 较低时提升水属性招式威力。"
+  },
+  {
+   "id": "rain_dish",
+   "name": "雨盘",
+   "name_en": "Rain Dish",
+   "implemented": false,
+   "description": "下雨时每回合回复 HP。"
+  },
+  {
+   "id": "mega_launcher",
+   "name": "超级发射器",
+   "name_en": "Mega Launcher",
+   "implemented": true,
+   "description": "波动招式威力提升 50%。"
+  },
+  {
+   "id": "swarm",
+   "name": "虫之预感",
+   "name_en": "Swarm",
+   "implemented": false,
+   "description": "HP 较低时提升虫属性招式威力。"
+  },
+  {
+   "id": "sniper",
+   "name": "狙击手",
+   "name_en": "Sniper",
+   "implemented": false,
+   "description": "击中要害时， 威力会变得更强。"
+  },
+  {
+   "id": "adaptability",
+   "name": "适应力",
+   "name_en": "Adaptability",
+   "implemented": true,
+   "description": "本系加成从 1.5 倍提升到 2 倍。"
+  },
+  {
+   "id": "keen_eye",
+   "name": "锐利目光",
+   "name_en": "Keen Eye",
+   "implemented": false,
+   "description": "多亏了锐利的目光， 命中率不会被降低。"
+  },
+  {
+   "id": "tangled_feet",
+   "name": "蹒跚",
+   "name_en": "Tangled Feet",
+   "implemented": false,
+   "description": "在混乱状态时， 闪避率会提高。"
+  },
+  {
+   "id": "big_pecks",
+   "name": "健壮胸肌",
+   "name_en": "Big Pecks",
+   "implemented": false,
+   "description": "不会受到防御降低的效果。"
+  },
+  {
+   "id": "no_guard",
+   "name": "无防守",
+   "name_en": "No Guard",
+   "implemented": false,
+   "description": "由于无防守战术， 双方使出的招式都必定会击中。"
+  },
+  {
+   "id": "intimidate",
+   "name": "威吓",
+   "name_en": "Intimidate",
+   "implemented": false,
+   "description": "出场时降低对手攻击。请在攻击方能力等级中手动填入 -1。"
+  },
+  {
+   "id": "shed_skin",
+   "name": "蜕皮",
+   "name_en": "Shed Skin",
+   "implemented": false,
+   "description": "通过蜕去身上的皮， 有时会治愈异常状态。"
+  },
+  {
+   "id": "unnerve",
+   "name": "紧张感",
+   "name_en": "Unnerve",
+   "implemented": false,
+   "description": "使对手无法食用树果。"
+  },
+  {
+   "id": "static",
+   "name": "静电",
+   "name_en": "Static",
+   "implemented": false,
+   "description": "接触攻击有几率使对手麻痹。"
+  },
+  {
+   "id": "lightning_rod",
+   "name": "避雷针",
+   "name_en": "Lightning Rod",
+   "implemented": true,
+   "description": "免疫电属性招式，并提升特攻。"
+  },
+  {
+   "id": "surge_surfer",
+   "name": "冲浪之尾",
+   "name_en": "Surge Surfer",
+   "implemented": false,
+   "description": "电气场地时， 速度会变为２倍。"
+  },
+  {
+   "id": "electric_surge",
+   "name": "电气制造者",
+   "name_en": "Electric Surge",
+   "implemented": false,
+   "description": "出场时布下电气场地，后续版本接入场地系统。"
+  },
+  {
+   "id": "cute_charm",
+   "name": "迷人之躯",
+   "name_en": "Cute Charm",
+   "implemented": false,
+   "description": "有时会让接触到自己的对手着迷。"
+  },
+  {
+   "id": "magic_guard",
+   "name": "魔法防守",
+   "name_en": "Magic Guard",
+   "implemented": false,
+   "description": "不会受到攻击以外的伤害。"
+  },
+  {
+   "id": "unaware",
+   "name": "纯朴",
+   "name_en": "Unaware",
+   "implemented": true,
+   "description": "伤害计算时无视对手的能力等级变化。"
+  },
+  {
+   "id": "magic_bounce",
+   "name": "魔法镜",
+   "name_en": "Magic Bounce",
+   "implemented": false,
+   "description": "可以不受到由对手使出的 变化招式影响，并将其反弹。"
+  },
+  {
+   "id": "flash_fire",
+   "name": "引火",
+   "name_en": "Flash Fire",
+   "implemented": true,
+   "description": "免疫火属性招式，并提升火属性招式威力。"
+  },
+  {
+   "id": "snow_cloak",
+   "name": "雪隐",
+   "name_en": "Snow Cloak",
+   "implemented": false,
+   "description": "冰雹天气时， 闪避率会提高。"
+  },
+  {
+   "id": "snow_warning",
+   "name": "降雪",
+   "name_en": "Snow Warning",
+   "implemented": false,
+   "description": "出场时， 会将天气变为冰雹。"
+  },
+  {
+   "id": "competitive",
+   "name": "好胜",
+   "name_en": "Competitive",
+   "implemented": false,
+   "description": "如果能力被降低， 特攻就会大幅提高。"
+  },
+  {
+   "id": "frisk",
+   "name": "察觉",
+   "name_en": "Frisk",
+   "implemented": false,
+   "description": "出场时， 可以察觉对手的持有物。"
+  },
+  {
+   "id": "effect_spore",
+   "name": "孢子",
+   "name_en": "Effect Spore",
+   "implemented": false,
+   "description": "接触攻击有几率使对手陷入异常状态。"
+  },
+  {
+   "id": "limber",
+   "name": "柔软",
+   "name_en": "Limber",
+   "implemented": false,
+   "description": "因为身体柔软， 不会变为麻痹状态。"
+  },
+  {
+   "id": "technician",
+   "name": "技术高手",
+   "name_en": "Technician",
+   "implemented": true,
+   "description": "威力 60 以下的招式威力提升 50%。"
+  },
+  {
+   "id": "fur_coat",
+   "name": "毛皮大衣",
+   "name_en": "Fur Coat",
+   "implemented": true,
+   "description": "防御翻倍。"
+  },
+  {
+   "id": "rattled",
+   "name": "胆怯",
+   "name_en": "Rattled",
+   "implemented": false,
+   "description": "受到恶属性、幽灵属性 和虫属性的招式攻击时， 会因胆怯而速度提高。"
+  },
+  {
+   "id": "battle_armor",
+   "name": "战斗盔甲",
+   "name_en": "Battle Armor",
+   "implemented": false,
+   "description": "被坚硬的甲壳守护着， 不会被对手的攻击击中要害。"
+  },
+  {
+   "id": "steely_spirit",
+   "name": "钢之意志",
+   "name_en": "Steely Spirit",
+   "implemented": false,
+   "description": "我方的钢属性 攻击威力会提高。"
+  },
+  {
+   "id": "justified",
+   "name": "正义之心",
+   "name_en": "Justified",
+   "implemented": false,
+   "description": "受到恶属性攻击时攻击提升。"
+  },
+  {
+   "id": "rock_head",
+   "name": "坚硬脑袋",
+   "name_en": "Rock Head",
+   "implemented": false,
+   "description": "即使使出会受反作用力伤害的招式， ＨＰ也不会减少。"
+  },
+  {
+   "id": "water_absorb",
+   "name": "储水",
+   "name_en": "Water Absorb",
+   "implemented": true,
+   "description": "免疫水属性招式并回复 HP。"
+  },
+  {
+   "id": "damp",
+   "name": "湿气",
+   "name_en": "Damp",
+   "implemented": false,
+   "description": "通过把周围都弄湿， 使谁都无法使用自爆等爆炸类的招式。"
+  },
+  {
+   "id": "drizzle",
+   "name": "降雨",
+   "name_en": "Drizzle",
+   "implemented": false,
+   "description": "出场时， 会将天气变为下雨。"
+  },
+  {
+   "id": "synchronize",
+   "name": "同步",
+   "name_en": "Synchronize",
+   "implemented": false,
+   "description": "将自己的中毒、麻痹 或灼伤状态传染给对手。"
+  },
+  {
+   "id": "inner_focus",
+   "name": "精神力",
+   "name_en": "Inner Focus",
+   "implemented": false,
+   "description": "不会畏缩。"
+  },
+  {
+   "id": "trace",
+   "name": "复制",
+   "name_en": "Trace",
+   "implemented": false,
+   "description": "出场时，复制对手的特性， 变为与之相同的特性。"
+  },
+  {
+   "id": "guts",
+   "name": "毅力",
+   "name_en": "Guts",
+   "implemented": true,
+   "description": "异常状态时攻击提升 50%，且不受灼伤减速影响。"
+  },
+  {
+   "id": "steadfast",
+   "name": "不屈之心",
+   "name_en": "Steadfast",
+   "implemented": false,
+   "description": "畏缩时速度提升。"
+  },
+  {
+   "id": "gluttony",
+   "name": "贪吃鬼",
+   "name_en": "Gluttony",
+   "implemented": false,
+   "description": "更早使用树果。"
+  },
+  {
+   "id": "innards_out",
+   "name": "飞出的内在物",
+   "name_en": "Innards Out",
+   "implemented": false,
+   "description": "被对手打倒的时候， 会给予对手相当于 ＨＰ剩余量的伤害。"
+  },
+  {
+   "id": "oblivious",
+   "name": "迟钝",
+   "name_en": "Oblivious",
+   "implemented": false,
+   "description": "因为感觉迟钝， 不会变为着迷和被挑衅状态。"
+  },
+  {
+   "id": "own_tempo",
+   "name": "我行我素",
+   "name_en": "Own Tempo",
+   "implemented": false,
+   "description": "因为我行我素， 不会变为混乱状态。"
+  },
+  {
+   "id": "regenerator",
+   "name": "再生力",
+   "name_en": "Regenerator",
+   "implemented": false,
+   "description": "交换下场时回复 HP。"
+  },
+  {
+   "id": "shell_armor",
+   "name": "硬壳盔甲",
+   "name_en": "Shell Armor",
+   "implemented": false,
+   "description": "被坚硬的壳保护着， 对手的攻击不会击中要害。"
+  },
+  {
+   "id": "quick_draw",
+   "name": "速击",
+   "name_en": "Quick Draw",
+   "implemented": false,
+   "description": "有时能比对手先一步行动。"
+  },
+  {
+   "id": "curious_medicine",
+   "name": "怪药",
+   "name_en": "Curious Medicine",
+   "implemented": false,
+   "description": "出场时会从贝壳撒药， 将我方的能力变化复原。"
+  },
+  {
+   "id": "defiant",
+   "name": "不服输",
+   "name_en": "Defiant",
+   "implemented": false,
+   "description": "能力被降低时， 攻击会大幅提高。"
+  },
+  {
+   "id": "scrappy",
+   "name": "胆量",
+   "name_en": "Scrappy",
+   "implemented": false,
+   "description": "一般属性和格斗属性的招式 可以击中幽灵属性的宝可梦。"
+  },
+  {
+   "id": "cursed_body",
+   "name": "诅咒之躯",
+   "name_en": "Cursed Body",
+   "implemented": false,
+   "description": "受击时有几率封锁对手招式。"
+  },
+  {
+   "id": "shadow_tag",
+   "name": "踩影",
+   "name_en": "Shadow Tag",
+   "implemented": false,
+   "description": "踩住对手的影子 使其无法逃走或替换。"
+  },
+  {
+   "id": "sturdy",
+   "name": "结实",
+   "name_en": "Sturdy",
+   "implemented": false,
+   "description": "即使受到对手的招式攻击， 也不会被一击打倒。 一击必杀的招式也没有效果。"
+  },
+  {
+   "id": "sheer_force",
+   "name": "强行",
+   "name_en": "Sheer Force",
+   "implemented": false,
+   "description": "招式的追加效果消失， 但因此能以更高的威力使出招式。"
+  },
+  {
+   "id": "sand_force",
+   "name": "沙之力",
+   "name_en": "Sand Force",
+   "implemented": false,
+   "description": "沙暴天气时， 岩石属性、地面属性 和钢属性的招式威力会提高。"
+  },
+  {
+   "id": "solid_rock",
+   "name": "坚硬岩石",
+   "name_en": "Solid Rock",
+   "implemented": true,
+   "description": "受到效果绝佳的伤害减少 25%。"
+  },
+  {
+   "id": "reckless",
+   "name": "舍身",
+   "name_en": "Reckless",
+   "implemented": false,
+   "description": "自己会因反作用力受伤的招式， 其威力会提高。"
+  },
+  {
+   "id": "early_bird",
+   "name": "早起",
+   "name_en": "Early Bird",
+   "implemented": false,
+   "description": "即使变为睡眠状态， 也能以２倍的速度提早醒来。"
+  },
+  {
+   "id": "parental_bond",
+   "name": "亲子爱",
+   "name_en": "Parental Bond",
+   "implemented": false,
+   "description": "亲子俩可以合计攻击２次。"
+  },
+  {
+   "id": "illuminate",
+   "name": "发光",
+   "name_en": "Illuminate",
+   "implemented": false,
+   "description": "通过让周围变亮， 变得容易遇到野生的宝可梦。"
+  },
+  {
+   "id": "natural_cure",
+   "name": "自然回复",
+   "name_en": "Natural Cure",
+   "implemented": false,
+   "description": "回到同行队伍后， 异常状态就会被治愈。"
+  },
+  {
+   "id": "analytic",
+   "name": "分析",
+   "name_en": "Analytic",
+   "implemented": false,
+   "description": "如果在最后使出招式， 招式的威力会提高。"
+  },
+  {
+   "id": "huge_power",
+   "name": "大力士",
+   "name_en": "Huge Power",
+   "implemented": true,
+   "description": "攻击力翻倍。"
+  },
+  {
+   "id": "soundproof",
+   "name": "隔音",
+   "name_en": "Soundproof",
+   "implemented": false,
+   "description": "通过屏蔽声音， 不受到声音招式的攻击。"
+  },
+  {
+   "id": "filter",
+   "name": "过滤",
+   "name_en": "Filter",
+   "implemented": true,
+   "description": "受到效果绝佳的伤害减少 25%。"
+  },
+  {
+   "id": "screen_cleaner",
+   "name": "除障",
+   "name_en": "Screen Cleaner",
+   "implemented": false,
+   "description": "出场时，敌方和我方的光墙、 反射壁和极光幕的效果会消失。"
+  },
+  {
+   "id": "ice_body",
+   "name": "冰冻之躯",
+   "name_en": "Ice Body",
+   "implemented": false,
+   "description": "冰雹天气时， 会缓缓回复ＨＰ。"
+  },
+  {
+   "id": "light_metal",
+   "name": "轻金属",
+   "name_en": "Light Metal",
+   "implemented": false,
+   "description": "体重减半。"
+  },
+  {
+   "id": "sharpness",
+   "name": "锋锐",
+   "name_en": "Sharpness",
+   "implemented": true,
+   "description": "切割招式威力提升 50%。"
+  },
+  {
+   "id": "hyper_cutter",
+   "name": "怪力钳",
+   "name_en": "Hyper Cutter",
+   "implemented": false,
+   "description": "因为拥有以力量自豪的钳子， 不会被对手降低攻击。"
+  },
+  {
+   "id": "mold_breaker",
+   "name": "破格",
+   "name_en": "Mold Breaker",
+   "implemented": false,
+   "description": "可以不受对手特性的干扰， 向对手使出招式。"
+  },
+  {
+   "id": "moxie",
+   "name": "自信过度",
+   "name_en": "Moxie",
+   "implemented": false,
+   "description": "击倒对手时攻击提升。"
+  },
+  {
+   "id": "aerilate",
+   "name": "飞行皮肤",
+   "name_en": "Aerilate",
+   "implemented": false,
+   "description": "一般属性的招式 会变为飞行属性。 威力会少量提高。"
+  },
+  {
+   "id": "anger_point",
+   "name": "愤怒穴位",
+   "name_en": "Anger Point",
+   "implemented": false,
+   "description": "要害被击中时， 会大发雷霆， 攻击力变为最大。"
+  },
+  {
+   "id": "cud_chew",
+   "name": "反刍",
+   "name_en": "Cud Chew",
+   "implemented": false,
+   "description": "If this Pokemon eats a Berry, it will eat that Berry again at the end of the next turn."
+  },
+  {
+   "id": "imposter",
+   "name": "变身者",
+   "name_en": "Imposter",
+   "implemented": false,
+   "description": "变身为当前面对的宝可梦。"
+  },
+  {
+   "id": "hydration",
+   "name": "湿润之躯",
+   "name_en": "Hydration",
+   "implemented": false,
+   "description": "下雨时治愈异常状态。"
+  },
+  {
+   "id": "volt_absorb",
+   "name": "蓄电",
+   "name_en": "Volt Absorb",
+   "implemented": true,
+   "description": "免疫电属性招式并回复 HP。"
+  },
+  {
+   "id": "quick_feet",
+   "name": "飞毛腿",
+   "name_en": "Quick Feet",
+   "implemented": false,
+   "description": "异常状态时速度提升。"
+  },
+  {
+   "id": "leaf_guard",
+   "name": "叶子防守",
+   "name_en": "Leaf Guard",
+   "implemented": false,
+   "description": "晴朗天气时， 不会变为异常状态。"
+  },
+  {
+   "id": "pixilate",
+   "name": "妖精皮肤",
+   "name_en": "Pixilate",
+   "implemented": false,
+   "description": "一般属性的招式 会变为妖精属性。 威力会少量提高。"
+  },
+  {
+   "id": "pressure",
+   "name": "压迫感",
+   "name_en": "Pressure",
+   "implemented": false,
+   "description": "给予对手压迫感， 大量减少其使用招式的ＰＰ。"
+  },
+  {
+   "id": "immunity",
+   "name": "免疫",
+   "name_en": "Immunity",
+   "implemented": false,
+   "description": "不会中毒。"
+  },
+  {
+   "id": "multiscale",
+   "name": "多鳞",
+   "name_en": "Multiscale",
+   "implemented": true,
+   "description": "HP 全满时受到的伤害减半。"
+  },
+  {
+   "id": "mega_sol",
+   "name": "超级日光",
+   "name_en": "Mega Sol",
+   "implemented": false,
+   "description": "This Pokemon's moves are used as if the effects of Sunny Day were active."
+  },
+  {
+   "id": "dragonize",
+   "name": "龙皮肤",
+   "name_en": "Dragonize",
+   "implemented": false,
+   "description": "This Pokemon's Normal-type moves become Dragon type and have 1.2x power."
+  },
+  {
+   "id": "insomnia",
+   "name": "不眠",
+   "name_en": "Insomnia",
+   "implemented": false,
+   "description": "因为有着睡不着的体质， 所以不会陷入睡眠状态。"
+  },
+  {
+   "id": "plus",
+   "name": "正电",
+   "name_en": "Plus",
+   "implemented": false,
+   "description": "与负电特性同伴同场时特攻提升。"
+  },
+  {
+   "id": "sap_sipper",
+   "name": "食草",
+   "name_en": "Sap Sipper",
+   "implemented": true,
+   "description": "免疫草属性招式，并提升攻击。"
+  },
+  {
+   "id": "armor_tail",
+   "name": "尾甲",
+   "name_en": "Armor Tail",
+   "implemented": false,
+   "description": "This Pokemon and its allies are protected from opposing priority moves."
+  },
+  {
+   "id": "overcoat",
+   "name": "防尘",
+   "name_en": "Overcoat",
+   "implemented": false,
+   "description": "不会受到沙暴或冰雹等的伤害。 不会受到粉末类招式的攻击。"
+  },
+  {
+   "id": "sand_veil",
+   "name": "沙隐",
+   "name_en": "Sand Veil",
+   "implemented": false,
+   "description": "沙暴中闪避率提升。"
+  },
+  {
+   "id": "poison_heal",
+   "name": "毒疗",
+   "name_en": "Poison Heal",
+   "implemented": false,
+   "description": "变为中毒状态时， ＨＰ不会减少，反而会增加起来。"
+  },
+  {
+   "id": "poison_point",
+   "name": "毒刺",
+   "name_en": "Poison Point",
+   "implemented": false,
+   "description": "有时会让接触到自己的 对手变为中毒状态。"
+  },
+  {
+   "id": "swift_swim",
+   "name": "悠游自如",
+   "name_en": "Swift Swim",
+   "implemented": false,
+   "description": "下雨天气时， 速度会提高。"
+  },
+  {
+   "id": "skill_link",
+   "name": "连续攻击",
+   "name_en": "Skill Link",
+   "implemented": false,
+   "description": "如果使用连续招式， 总是能使出最高次数。"
+  },
+  {
+   "id": "pickpocket",
+   "name": "顺手牵羊",
+   "name_en": "Pickpocket",
+   "implemented": false,
+   "description": "盗取接触到自己的 对手的道具。"
+  },
+  {
+   "id": "unburden",
+   "name": "轻装",
+   "name_en": "Unburden",
+   "implemented": false,
+   "description": "失去所持有的道具时， 速度会提高。"
+  },
+  {
+   "id": "poison_touch",
+   "name": "毒手",
+   "name_en": "Poison Touch",
+   "implemented": false,
+   "description": "只通过接触就有可能 让对手变为中毒状态。"
+  },
+  {
+   "id": "weak_armor",
+   "name": "碎裂铠甲",
+   "name_en": "Weak Armor",
+   "implemented": false,
+   "description": "如果因物理招式受到伤害， 防御会降低， 速度会大幅提高。"
+  },
+  {
+   "id": "stalwart",
+   "name": "坚毅",
+   "name_en": "Stalwart",
+   "implemented": false,
+   "description": "能无视具有吸引 对手招式效果的 特性或招式的影响。"
+  },
+  {
+   "id": "sand_stream",
+   "name": "扬沙",
+   "name_en": "Sand Stream",
+   "implemented": false,
+   "description": "出场时引发沙暴，请在天气中手动选择。"
+  },
+  {
+   "id": "speed_boost",
+   "name": "加速",
+   "name_en": "Speed Boost",
+   "implemented": false,
+   "description": "每一回合速度会变快。"
+  },
+  {
+   "id": "telepathy",
+   "name": "心灵感应",
+   "name_en": "Telepathy",
+   "implemented": false,
+   "description": "双打中不受队友攻击伤害。"
+  },
+  {
+   "id": "stall",
+   "name": "慢出",
+   "name_en": "Stall",
+   "implemented": false,
+   "description": "使出招式的顺序 必定会变为最后。"
+  },
+  {
+   "id": "prankster",
+   "name": "恶作剧之心",
+   "name_en": "Prankster",
+   "implemented": false,
+   "description": "可以率先使出变化招式。"
+  },
+  {
+   "id": "heavy_metal",
+   "name": "重金属",
+   "name_en": "Heavy Metal",
+   "implemented": false,
+   "description": "自身的重量会变为２倍。"
+  },
+  {
+   "id": "pure_power",
+   "name": "瑜伽之力",
+   "name_en": "Pure Power",
+   "implemented": true,
+   "description": "因瑜伽的力量， 物理攻击的威力会变为２倍。"
+  },
+  {
+   "id": "minus",
+   "name": "负电",
+   "name_en": "Minus",
+   "implemented": false,
+   "description": "出场的伙伴之间 如果有正电或负电特性的宝可梦， 自己的特攻会提高。"
+  },
+  {
+   "id": "liquid_ooze",
+   "name": "污泥浆",
+   "name_en": "Liquid Ooze",
+   "implemented": false,
+   "description": "吸收了污泥浆的对手 会因强烈的恶臭 而受到伤害，减少ＨＰ。"
+  },
+  {
+   "id": "sticky_hold",
+   "name": "黏着",
+   "name_en": "Sticky Hold",
+   "implemented": false,
+   "description": "因为道具是粘在黏性身体上的， 所以不会被对手夺走。"
+  },
+  {
+   "id": "rough_skin",
+   "name": "粗糙皮肤",
+   "name_en": "Rough Skin",
+   "implemented": false,
+   "description": "受到接触攻击时反伤，不影响伤害计算。"
+  },
+  {
+   "id": "strong_jaw",
+   "name": "强力颚",
+   "name_en": "Strong Jaw",
+   "implemented": true,
+   "description": "啃咬招式威力提升 50%。"
+  },
+  {
+   "id": "magma_armor",
+   "name": "熔岩铠甲",
+   "name_en": "Magma Armor",
+   "implemented": false,
+   "description": "将炽热的熔岩覆盖在身上， 不会变为冰冻状态。"
+  },
+  {
+   "id": "white_smoke",
+   "name": "白色烟雾",
+   "name_en": "White Smoke",
+   "implemented": false,
+   "description": "被白色烟雾保护着， 不会被对手降低能力。"
+  },
+  {
+   "id": "cloud_nine",
+   "name": "无关天气",
+   "name_en": "Cloud Nine",
+   "implemented": false,
+   "description": "任何天气的影响都会消失。"
+  },
+  {
+   "id": "marvel_scale",
+   "name": "神奇鳞片",
+   "name_en": "Marvel Scale",
+   "implemented": true,
+   "description": "异常状态时防御提升 50%。"
+  },
+  {
+   "id": "forecast",
+   "name": "阴晴不定",
+   "name_en": "Forecast",
+   "implemented": false,
+   "description": "受天气的影响， 会变为水属性、火属性 或冰属性中的某一个。"
+  },
+  {
+   "id": "levitate",
+   "name": "飘浮",
+   "name_en": "Levitate",
+   "implemented": true,
+   "description": "免疫地面属性招式。"
+  },
+  {
+   "id": "super_luck",
+   "name": "超幸运",
+   "name_en": "Super Luck",
+   "implemented": false,
+   "description": "因为拥有超幸运， 攻击容易击中对手的要害。"
+  },
+  {
+   "id": "moody",
+   "name": "心情不定",
+   "name_en": "Moody",
+   "implemented": false,
+   "description": "每一回合，能力中的某项 会大幅提高，而某项会降低。"
+  },
+  {
+   "id": "refrigerate",
+   "name": "冰冻皮肤",
+   "name_en": "Refrigerate",
+   "implemented": false,
+   "description": "一般属性的招式 会变为冰属性。 威力会少量提高。"
+  },
+  {
+   "id": "clear_body",
+   "name": "恒净之躯",
+   "name_en": "Clear Body",
+   "implemented": false,
+   "description": "能力等级不会被对手降低。"
+  },
+  {
+   "id": "iron_fist",
+   "name": "铁拳",
+   "name_en": "Iron Fist",
+   "implemented": true,
+   "description": "拳类招式威力提升 20%。"
+  },
+  {
+   "id": "contrary",
+   "name": "唱反调",
+   "name_en": "Contrary",
+   "implemented": false,
+   "description": "能力的变化发生逆转， 原本提高时会降低， 而原本降低时会提高。"
+  },
+  {
+   "id": "rivalry",
+   "name": "斗争心",
+   "name_en": "Rivalry",
+   "implemented": false,
+   "description": "面对性别相同的对手， 会燃起斗争心，变得更强。 而面对性别不同的，则会变弱。"
+  },
+  {
+   "id": "klutz",
+   "name": "笨拙",
+   "name_en": "Klutz",
+   "implemented": false,
+   "description": "无法使用持有的道具。"
+  },
+  {
+   "id": "infiltrator",
+   "name": "穿透",
+   "name_en": "Infiltrator",
+   "implemented": true,
+   "description": "无视反射盾、光墙等屏障进行攻击。"
+  },
+  {
+   "id": "anticipation",
+   "name": "危险预知",
+   "name_en": "Anticipation",
+   "implemented": false,
+   "description": "可以察觉到 对手拥有的危险招式。"
+  },
+  {
+   "id": "dry_skin",
+   "name": "干燥皮肤",
+   "name_en": "Dry Skin",
+   "implemented": true,
+   "description": "下雨天气时和受到水属性的招式时， ＨＰ会回复。晴朗天气时和受到火属性的 招式时，ＨＰ会减少。"
+  },
+  {
+   "id": "forewarn",
+   "name": "预知梦",
+   "name_en": "Forewarn",
+   "implemented": false,
+   "description": "出场时， 只读取１个对手拥有的招式。"
+  },
+  {
+   "id": "sand_rush",
+   "name": "拨沙",
+   "name_en": "Sand Rush",
+   "implemented": false,
+   "description": "沙暴天气时， 速度会提高。"
+  },
+  {
+   "id": "piercing_drill",
+   "name": "贯穿钻",
+   "name_en": "Piercing Drill",
+   "implemented": false,
+   "description": "This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage."
+  },
+  {
+   "id": "healer",
+   "name": "治愈之心",
+   "name_en": "Healer",
+   "implemented": false,
+   "description": "有时会治愈异常状态的同伴。"
+  },
+  {
+   "id": "mummy",
+   "name": "木乃伊",
+   "name_en": "Mummy",
+   "implemented": false,
+   "description": "被对手接触到后， 会将对手变为木乃伊。"
+  },
+  {
+   "id": "wandering_spirit",
+   "name": "游魂",
+   "name_en": "Wandering Spirit",
+   "implemented": false,
+   "description": "与使用接触类招式 攻击自己的宝可梦互换特性。"
+  },
+  {
+   "id": "stench",
+   "name": "恶臭",
+   "name_en": "Stench",
+   "implemented": false,
+   "description": "通过释放臭臭的气味， 在攻击的时候， 有时会使对手畏缩。"
+  },
+  {
+   "id": "aftermath",
+   "name": "诱爆",
+   "name_en": "Aftermath",
+   "implemented": false,
+   "description": "变为濒死时， 会对接触到自己的对手造成伤害。"
+  },
+  {
+   "id": "illusion",
+   "name": "幻觉",
+   "name_en": "Illusion",
+   "implemented": false,
+   "description": "假扮成同行队伍中的 最后一只宝可梦出场， 迷惑对手。"
+  },
+  {
+   "id": "motor_drive",
+   "name": "电气引擎",
+   "name_en": "Motor Drive",
+   "implemented": true,
+   "description": "受到电属性的招式攻击时， 不会受到伤害，而是速度会提高。"
+  },
+  {
+   "id": "eelevate",
+   "name": "鳗鳗高升",
+   "name_en": "Eelevate",
+   "implemented": false,
+   "description": "This Pokemon is immune to Ground; +1 to highest stat if it KOes another Pokemon."
+  },
+  {
+   "id": "flame_body",
+   "name": "火焰之躯",
+   "name_en": "Flame Body",
+   "implemented": false,
+   "description": "接触攻击有几率使对手灼伤。"
+  },
+  {
+   "id": "slush_rush",
+   "name": "拨雪",
+   "name_en": "Slush Rush",
+   "implemented": false,
+   "description": "冰雹天气时， 速度会提高。"
+  },
+  {
+   "id": "mimicry",
+   "name": "拟态",
+   "name_en": "Mimicry",
+   "implemented": false,
+   "description": "宝可梦的属性会根据 场地的状态而变化。"
+  },
+  {
+   "id": "unseen_fist",
+   "name": "无形拳",
+   "name_en": "Unseen Fist",
+   "implemented": false,
+   "description": "接触招式可穿透守住。"
+  },
+  {
+   "id": "bulletproof",
+   "name": "防弹",
+   "name_en": "Bulletproof",
+   "implemented": false,
+   "description": "可以防住对手的 球和弹类招式。"
+  },
+  {
+   "id": "magician",
+   "name": "魔术师",
+   "name_en": "Magician",
+   "implemented": false,
+   "description": "夺走被自己的招式 击中的对手的道具。"
+  },
+  {
+   "id": "protean",
+   "name": "变幻自如",
+   "name_en": "Protean",
+   "implemented": false,
+   "description": "变为与自己使出的招式 相同的属性。"
+  },
+  {
+   "id": "battle_bond",
+   "name": "牵绊变身",
+   "name_en": "Battle Bond",
+   "implemented": false,
+   "description": "打倒对手时，与训练家的牵绊会增强， 变为小智版甲贺忍蛙。 飞水手里剑的招式威力会增强。"
+  },
+  {
+   "id": "pickup",
+   "name": "捡拾",
+   "name_en": "Pickup",
+   "implemented": false,
+   "description": "有时会捡来对手用过的道具， 冒险过程中也会捡到。"
+  },
+  {
+   "id": "cheek_pouch",
+   "name": "颊囊",
+   "name_en": "Cheek Pouch",
+   "implemented": false,
+   "description": "无论是哪种树果， 食用后，ＨＰ都会回复。"
+  },
+  {
+   "id": "gale_wings",
+   "name": "疾风之翼",
+   "name_en": "Gale Wings",
+   "implemented": false,
+   "description": "ＨＰ全满时， 飞行属性的招式可以率先使出。"
+  },
+  {
+   "id": "shield_dust",
+   "name": "鳞粉",
+   "name_en": "Shield Dust",
+   "implemented": false,
+   "description": "被鳞粉守护着， 不会受到招式的追加效果影响。"
+  },
+  {
+   "id": "compound_eyes",
+   "name": "复眼",
+   "name_en": "Compound Eyes",
+   "implemented": false,
+   "description": "因为拥有复眼， 招式的命中率会提高。"
+  },
+  {
+   "id": "friend_guard",
+   "name": "友情防守",
+   "name_en": "Friend Guard",
+   "implemented": false,
+   "description": "可以减少我方的伤害。"
+  },
+  {
+   "id": "fire_mane",
+   "name": "火焰鬃毛",
+   "name_en": "Fire Mane",
+   "implemented": false,
+   "description": "This Pokemon's offensive stat is multiplied by 1.5 while using a Fire-type attack."
+  },
+  {
+   "id": "flower_veil",
+   "name": "花幕",
+   "name_en": "Flower Veil",
+   "implemented": false,
+   "description": "我方的草属性宝可梦 能力不会降低， 也不会变为异常状态。"
+  },
+  {
+   "id": "symbiosis",
+   "name": "共生",
+   "name_en": "Symbiosis",
+   "implemented": false,
+   "description": "同伴使用道具时， 会把自己持有的道具传递给同伴。"
+  },
+  {
+   "id": "fairy_aura",
+   "name": "妖精气场",
+   "name_en": "Fairy Aura",
+   "implemented": false,
+   "description": "全体的妖精属性招式变强。"
+  },
+  {
+   "id": "grass_pelt",
+   "name": "草之毛",
+   "name_en": "Grass Pelt",
+   "implemented": false,
+   "description": "青草场地中防御提升。"
+  },
+  {
+   "id": "stance_change",
+   "name": "战斗切换",
+   "name_en": "Stance Change",
+   "implemented": false,
+   "description": "如果使出攻击招式，会变为刀剑形态， 如果使出招式“王者盾牌”， 会变为盾牌形态。"
+  },
+  {
+   "id": "aroma_veil",
+   "name": "芳香幕",
+   "name_en": "Aroma Veil",
+   "implemented": false,
+   "description": "可以防住向自己和同伴 发出的心灵攻击。"
+  },
+  {
+   "id": "sweet_veil",
+   "name": "甜幕",
+   "name_en": "Sweet Veil",
+   "implemented": false,
+   "description": "我方的宝可梦 不会变为睡眠状态。"
+  },
+  {
+   "id": "suction_cups",
+   "name": "吸盘",
+   "name_en": "Suction Cups",
+   "implemented": false,
+   "description": "用吸盘牢牢贴在地面上， 让替换宝可梦的招式和道具无效。"
+  },
+  {
+   "id": "gooey",
+   "name": "黏滑",
+   "name_en": "Gooey",
+   "implemented": false,
+   "description": "对于用攻击接触到自己的对手， 会降低其速度。"
+  },
+  {
+   "id": "harvest",
+   "name": "收获",
+   "name_en": "Harvest",
+   "implemented": false,
+   "description": "可以多次制作出 已被使用掉的树果。"
+  },
+  {
+   "id": "long_reach",
+   "name": "远隔",
+   "name_en": "Long Reach",
+   "implemented": false,
+   "description": "可以不接触对手 就使出所有的招式。"
+  },
+  {
+   "id": "liquid_voice",
+   "name": "湿润之声",
+   "name_en": "Liquid Voice",
+   "implemented": false,
+   "description": "所有的声音招式 都变为水属性。"
+  },
+  {
+   "id": "vital_spirit",
+   "name": "干劲",
+   "name_en": "Vital Spirit",
+   "implemented": false,
+   "description": "通过激发出干劲， 不会变为睡眠状态。"
+  },
+  {
+   "id": "merciless",
+   "name": "不仁不义",
+   "name_en": "Merciless",
+   "implemented": false,
+   "description": "攻击中毒状态的对手时， 必定会击中要害。"
+  },
+  {
+   "id": "stamina",
+   "name": "持久力",
+   "name_en": "Stamina",
+   "implemented": false,
+   "description": "受到攻击时， 防御会提高。"
+  },
+  {
+   "id": "water_bubble",
+   "name": "水泡",
+   "name_en": "Water Bubble",
+   "implemented": true,
+   "description": "水属性招式威力翻倍，受到火属性伤害减半。"
+  },
+  {
+   "id": "corrosion",
+   "name": "腐蚀",
+   "name_en": "Corrosion",
+   "implemented": false,
+   "description": "可以使钢属性和毒属性的宝可梦 也陷入中毒状态。"
+  },
+  {
+   "id": "queenly_majesty",
+   "name": "女王的威严",
+   "name_en": "Queenly Majesty",
+   "implemented": false,
+   "description": "向对手施加威慑力， 使其无法对我方使出先制招式。"
+  },
+  {
+   "id": "receiver",
+   "name": "接球手",
+   "name_en": "Receiver",
+   "implemented": false,
+   "description": "继承被打倒的同伴的特性， 变为相同的特性。"
+  },
+  {
+   "id": "emergency_exit",
+   "name": "危险回避",
+   "name_en": "Emergency Exit",
+   "implemented": false,
+   "description": "ＨＰ变为一半时， 为了回避危险， 会退回到同行队伍中。"
+  },
+  {
+   "id": "disguise",
+   "name": "画皮",
+   "name_en": "Disguise",
+   "implemented": false,
+   "description": "通过画皮覆盖住身体， 可以防住１次攻击。"
+  },
+  {
+   "id": "berserk",
+   "name": "怒火冲天",
+   "name_en": "Berserk",
+   "implemented": false,
+   "description": "因对手的攻击 ＨＰ变为一半时， 特攻会提高。"
+  },
+  {
+   "id": "soul_heart",
+   "name": "魂心",
+   "name_en": "Soul-Heart",
+   "implemented": false,
+   "description": "宝可梦每次变为濒死状态时， 特攻会提高。"
+  },
+  {
+   "id": "grassy_surge",
+   "name": "青草制造者",
+   "name_en": "Grassy Surge",
+   "implemented": false,
+   "description": "出场时布下青草场地，后续版本接入场地系统。"
+  },
+  {
+   "id": "libero",
+   "name": "自由者",
+   "name_en": "Libero",
+   "implemented": false,
+   "description": "出招时变为该招式属性。"
+  },
+  {
+   "id": "mirror_armor",
+   "name": "镜甲",
+   "name_en": "Mirror Armor",
+   "implemented": false,
+   "description": "只反弹自己受到的 能力降低效果。"
+  },
+  {
+   "id": "run_away",
+   "name": "逃跑",
+   "name_en": "Run Away",
+   "implemented": false,
+   "description": "一定能从野生宝可梦 那儿逃走。"
+  },
+  {
+   "id": "stakeout",
+   "name": "蹲守",
+   "name_en": "Stakeout",
+   "implemented": false,
+   "description": "可以对替换出场的对手 以２倍的伤害进行攻击。"
+  },
+  {
+   "id": "ripen",
+   "name": "熟成",
+   "name_en": "Ripen",
+   "implemented": false,
+   "description": "使树果成熟， 效果变为２倍。"
+  },
+  {
+   "id": "hustle",
+   "name": "活力",
+   "name_en": "Hustle",
+   "implemented": true,
+   "description": "攻击提升 50%，命中率下降。"
+  },
+  {
+   "id": "sand_spit",
+   "name": "吐沙",
+   "name_en": "Sand Spit",
+   "implemented": false,
+   "description": "受到攻击时， 会刮起沙暴。"
+  },
+  {
+   "id": "punk_rock",
+   "name": "朋克摇滚",
+   "name_en": "Punk Rock",
+   "implemented": true,
+   "description": "声音招式威力提升 30%。"
+  },
+  {
+   "id": "psychic_surge",
+   "name": "精神制造者",
+   "name_en": "Psychic Surge",
+   "implemented": false,
+   "description": "出场时， 会布下精神场地。"
+  },
+  {
+   "id": "hunger_switch",
+   "name": "饱了又饿",
+   "name_en": "Hunger Switch",
+   "implemented": false,
+   "description": "每回合结束时会在 满腹花纹与空腹花纹之间 交替改变样子。"
+  },
+  {
+   "id": "fluffy",
+   "name": "毛茸茸",
+   "name_en": "Fluffy",
+   "implemented": false,
+   "description": "会将对手所给予的接触类招式的伤害减半， 但火属性招式的伤害会变为２倍。"
+  },
+  {
+   "id": "opportunist",
+   "name": "跟风",
+   "name_en": "Opportunist",
+   "implemented": false,
+   "description": "When an opposing Pokemon has a stat stage raised, this Pokemon copies the effect."
+  },
+  {
+   "id": "zero_to_hero",
+   "name": "全能变身",
+   "name_en": "Zero to Hero",
+   "implemented": false,
+   "description": "If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form."
+  },
+  {
+   "id": "seed_sower",
+   "name": "掉出种子",
+   "name_en": "Seed Sower",
+   "implemented": false,
+   "description": "When this Pokemon is hit by an attack, the effect of Grassy Terrain begins."
+  },
+  {
+   "id": "spicy_spray",
+   "name": "辣椒喷发",
+   "name_en": "Spicy Spray",
+   "implemented": false,
+   "description": "If this Pokemon is hit by an attack, the attacker becomes burned."
+  },
+  {
+   "id": "electromorphosis",
+   "name": "电力转换",
+   "name_en": "Electromorphosis",
+   "implemented": false,
+   "description": "This Pokemon gains the Charge effect when it takes a hit from an attack."
+  },
+  {
+   "id": "earth_eater",
+   "name": "食土",
+   "name_en": "Earth Eater",
+   "implemented": true,
+   "description": "This Pokemon heals 1/4 of its max HP when hit by Ground moves; Ground immunity."
+  },
+  {
+   "id": "thermal_exchange",
+   "name": "热交换",
+   "name_en": "Thermal Exchange",
+   "implemented": false,
+   "description": "This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned."
+  },
+  {
+   "id": "purifying_salt",
+   "name": "洁净之盐",
+   "name_en": "Purifying Salt",
+   "implemented": false,
+   "description": "Ghost damage to this Pokemon dealt with a halved offensive stat; can't be statused."
+  },
+  {
+   "id": "toxic_debris",
+   "name": "毒满地",
+   "name_en": "Toxic Debris",
+   "implemented": false,
+   "description": "If this Pokemon is hit by a physical attack, Toxic Spikes are set on the opposing side."
+  },
+  {
+   "id": "guard_dog",
+   "name": "看门犬",
+   "name_en": "Guard Dog",
+   "implemented": false,
+   "description": "Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out."
+  },
+  {
+   "id": "good_as_gold",
+   "name": "黄金之躯",
+   "name_en": "Good as Gold",
+   "implemented": false,
+   "description": "免疫变化招式。"
+  },
+  {
+   "id": "supreme_overlord",
+   "name": "大将",
+   "name_en": "Supreme Overlord",
+   "implemented": false,
+   "description": "This Pokemon's moves have 10% more power for each fainted ally, up to 5 allies."
+  },
+  {
+   "id": "hospitality",
+   "name": "款待",
+   "name_en": "Hospitality",
+   "implemented": false,
+   "description": "On switch-in, this Pokemon restores 1/4 of its ally's maximum HP, rounded down."
+  },
+  {
+   "id": "heatproof",
+   "name": "耐热",
+   "name_en": "Heatproof",
+   "implemented": false,
+   "description": "耐热的体质会 让火属性的招式威力减半。"
+  },
+  {
+   "id": "supersweet_syrup",
+   "name": "甘露之蜜",
+   "name_en": "Supersweet Syrup",
+   "implemented": false,
+   "description": "On switch-in, this Pokemon lowers the evasiveness of opponents 1 stage. Once per battle."
+  }
+ ]
+}
