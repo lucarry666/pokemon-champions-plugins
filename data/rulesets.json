@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "default": "champions",
+ "entries": [
+  {
+   "id": "champions",
+   "name": "宝可梦 冠军 · M-C",
+   "level": 50,
+   "regulation": "M-C",
+   "period": "2026-09-09 ~ 2026-12-02",
+   "description": "Regular Roster M-C（2026-09-09 至 2026-12-02）。能力点总计 66、单项 32、无个体值。只收录该赛制可用的宝可梦与招式。",
+   "point_total": 66,
+   "point_max": 32,
+   "iv_fixed": 31
+  }
+ ]
+}
