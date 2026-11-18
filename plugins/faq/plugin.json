@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "faq",
+  "name": "常见问题",
+  "version": "1.0.0",
+  "description": "冠军规则的常见问题解答",
+  "capabilities": [],
+  "provides_pages": [
+    {
+      "id": "faq",
+      "title": "常见问题",
+      "template": "detail",
+      "sections": [
+        {
+          "title": "能力点",
+          "fields": [
+            { "label": "总点数", "value": "66 点" },
+            { "label": "单项上限", "value": "32 点" },
+            { "label": "个体值", "value": "固定 31，不可调整" },
+            { "label": "换算", "value": "1 点 = +1 能力值，再乘性格倍率" }
+          ]
+        },
+        {
+          "title": "性格",
+          "fields": [
+            { "label": "加成项", "value": "×1.1" },
+            { "label": "减项", "value": "×0.9" },
+            { "label": "中性性格", "value": "无修正，共 5 种" }
+          ]
+        },
+        {
+          "title": "速度",
+          "fields": [
+            { "label": "讲究围巾", "value": "×1.5" },
+            { "label": "顺风", "value": "×2" },
+            { "label": "麻痹", "value": "×0.5" },
+            { "label": "天气加速特性", "value": "×2" }
+          ]
+        }
+      ]
+    }
+  ]
+}
