@@ -1,0 +1,8539 @@
+{
+ "schema": 1,
+ "source": "Pokémon Showdown champions mod + Serebii M-C",
+ "entries": [
+  {
+   "id": "venusaur",
+   "name": "妙蛙花",
+   "name_en": "Venusaur",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+   },
+   "abilities": [
+    "overgrow",
+    "chlorophyll"
+   ],
+   "weight": 100,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "venusaurmega",
+   "name": "超级妙蛙花",
+   "name_en": "Venusaur-Mega",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 100,
+    "def": 123,
+    "spa": 122,
+    "spd": 120,
+    "spe": 80
+   },
+   "abilities": [
+    "thick_fat"
+   ],
+   "weight": 155.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "charizard",
+   "name": "喷火龙",
+   "name_en": "Charizard",
+   "types": [
+    "fire",
+    "flying"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spa": 109,
+    "spd": 85,
+    "spe": 100
+   },
+   "abilities": [
+    "blaze",
+    "solar_power"
+   ],
+   "weight": 90.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "charizardmegax",
+   "name": "超级喷火龙Ｘ",
+   "name_en": "Charizard-Mega-X",
+   "types": [
+    "fire",
+    "dragon"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 130,
+    "def": 111,
+    "spa": 130,
+    "spd": 85,
+    "spe": 100
+   },
+   "abilities": [
+    "tough_claws"
+   ],
+   "weight": 110.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "charizardmegay",
+   "name": "超级喷火龙Ｙ",
+   "name_en": "Charizard-Mega-Y",
+   "types": [
+    "fire",
+    "flying"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 104,
+    "def": 78,
+    "spa": 159,
+    "spd": 115,
+    "spe": 100
+   },
+   "abilities": [
+    "drought"
+   ],
+   "weight": 100.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "blastoise",
+   "name": "水箭龟",
+   "name_en": "Blastoise",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "spa": 85,
+    "spd": 105,
+    "spe": 78
+   },
+   "abilities": [
+    "torrent",
+    "rain_dish"
+   ],
+   "weight": 85.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "blastoisemega",
+   "name": "超级水箭龟",
+   "name_en": "Blastoise-Mega",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 79,
+    "atk": 103,
+    "def": 120,
+    "spa": 135,
+    "spd": 115,
+    "spe": 78
+   },
+   "abilities": [
+    "mega_launcher"
+   ],
+   "weight": 101.1,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "beedrill",
+   "name": "大针蜂",
+   "name_en": "Beedrill",
+   "types": [
+    "bug",
+    "poison"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 90,
+    "def": 40,
+    "spa": 45,
+    "spd": 80,
+    "spe": 75
+   },
+   "abilities": [
+    "swarm",
+    "sniper"
+   ],
+   "weight": 29.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "beedrillmega",
+   "name": "超级大针蜂",
+   "name_en": "Beedrill-Mega",
+   "types": [
+    "bug",
+    "poison"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 150,
+    "def": 40,
+    "spa": 15,
+    "spd": 80,
+    "spe": 145
+   },
+   "abilities": [
+    "adaptability"
+   ],
+   "weight": 40.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "pidgeot",
+   "name": "大比鸟",
+   "name_en": "Pidgeot",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 83,
+    "atk": 80,
+    "def": 75,
+    "spa": 70,
+    "spd": 70,
+    "spe": 101
+   },
+   "abilities": [
+    "keen_eye",
+    "tangled_feet",
+    "big_pecks"
+   ],
+   "weight": 39.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pidgeotmega",
+   "name": "超级大比鸟",
+   "name_en": "Pidgeot-Mega",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 83,
+    "atk": 80,
+    "def": 80,
+    "spa": 135,
+    "spd": 80,
+    "spe": 121
+   },
+   "abilities": [
+    "no_guard"
+   ],
+   "weight": 50.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "arbok",
+   "name": "阿柏怪",
+   "name_en": "Arbok",
+   "types": [
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 95,
+    "def": 69,
+    "spa": 65,
+    "spd": 79,
+    "spe": 80
+   },
+   "abilities": [
+    "intimidate",
+    "shed_skin",
+    "unnerve"
+   ],
+   "weight": 65,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pikachu",
+   "name": "皮卡丘",
+   "name_en": "Pikachu",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+   },
+   "abilities": [
+    "static",
+    "lightning_rod"
+   ],
+   "weight": 6,
+   "nfe": true,
+   "tags": []
+  },
+  {
+   "id": "raichu",
+   "name": "雷丘",
+   "name_en": "Raichu",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "spa": 90,
+    "spd": 80,
+    "spe": 110
+   },
+   "abilities": [
+    "static",
+    "lightning_rod"
+   ],
+   "weight": 30,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "raichualola",
+   "name": "雷丘（阿罗拉）",
+   "name_en": "Raichu-Alola",
+   "types": [
+    "electric",
+    "psychic"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 85,
+    "def": 50,
+    "spa": 95,
+    "spd": 85,
+    "spe": 110
+   },
+   "abilities": [
+    "surge_surfer"
+   ],
+   "weight": 21,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "raichumegax",
+   "name": "超级雷丘Ｘ",
+   "name_en": "Raichu-Mega-X",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 135,
+    "def": 95,
+    "spa": 90,
+    "spd": 95,
+    "spe": 110
+   },
+   "abilities": [
+    "electric_surge"
+   ],
+   "weight": 38,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "raichumegay",
+   "name": "超级雷丘Ｙ",
+   "name_en": "Raichu-Mega-Y",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 100,
+    "def": 55,
+    "spa": 160,
+    "spd": 80,
+    "spe": 130
+   },
+   "abilities": [
+    "no_guard"
+   ],
+   "weight": 26,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "clefable",
+   "name": "皮可西",
+   "name_en": "Clefable",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spa": 95,
+    "spd": 90,
+    "spe": 60
+   },
+   "abilities": [
+    "cute_charm",
+    "magic_guard",
+    "unaware"
+   ],
+   "weight": 40,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "clefablemega",
+   "name": "超级皮可西",
+   "name_en": "Clefable-Mega",
+   "types": [
+    "fairy",
+    "flying"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 80,
+    "def": 93,
+    "spa": 135,
+    "spd": 110,
+    "spe": 70
+   },
+   "abilities": [
+    "magic_bounce"
+   ],
+   "weight": 42.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "ninetales",
+   "name": "九尾",
+   "name_en": "Ninetales",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 73,
+    "atk": 76,
+    "def": 75,
+    "spa": 81,
+    "spd": 100,
+    "spe": 100
+   },
+   "abilities": [
+    "flash_fire",
+    "drought"
+   ],
+   "weight": 19.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "ninetalesalola",
+   "name": "九尾（阿罗拉）",
+   "name_en": "Ninetales-Alola",
+   "types": [
+    "ice",
+    "fairy"
+   ],
+   "base": {
+    "hp": 73,
+    "atk": 67,
+    "def": 75,
+    "spa": 81,
+    "spd": 100,
+    "spe": 109
+   },
+   "abilities": [
+    "snow_cloak",
+    "snow_warning"
+   ],
+   "weight": 19.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "wigglytuff",
+   "name": "胖可丁",
+   "name_en": "Wigglytuff",
+   "types": [
+    "normal",
+    "fairy"
+   ],
+   "base": {
+    "hp": 140,
+    "atk": 70,
+    "def": 45,
+    "spa": 85,
+    "spd": 50,
+    "spe": 45
+   },
+   "abilities": [
+    "cute_charm",
+    "competitive",
+    "frisk"
+   ],
+   "weight": 12,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "vileplume",
+   "name": "霸王花",
+   "name_en": "Vileplume",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "spa": 110,
+    "spd": 90,
+    "spe": 50
+   },
+   "abilities": [
+    "chlorophyll",
+    "effect_spore"
+   ],
+   "weight": 18.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "persian",
+   "name": "猫老大",
+   "name_en": "Persian",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 70,
+    "def": 60,
+    "spa": 65,
+    "spd": 65,
+    "spe": 115
+   },
+   "abilities": [
+    "limber",
+    "technician",
+    "unnerve"
+   ],
+   "weight": 32,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "persianalola",
+   "name": "猫老大（阿罗拉）",
+   "name_en": "Persian-Alola",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 60,
+    "def": 60,
+    "spa": 75,
+    "spd": 65,
+    "spe": 115
+   },
+   "abilities": [
+    "fur_coat",
+    "technician",
+    "rattled"
+   ],
+   "weight": 33,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "perrserker",
+   "name": "喵头目",
+   "name_en": "Perrserker",
+   "types": [
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 110,
+    "def": 100,
+    "spa": 50,
+    "spd": 60,
+    "spe": 50
+   },
+   "abilities": [
+    "battle_armor",
+    "tough_claws",
+    "steely_spirit"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "arcanine",
+   "name": "风速狗",
+   "name_en": "Arcanine",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 110,
+    "def": 80,
+    "spa": 100,
+    "spd": 80,
+    "spe": 95
+   },
+   "abilities": [
+    "intimidate",
+    "flash_fire",
+    "justified"
+   ],
+   "weight": 155,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "arcaninehisui",
+   "name": "风速狗（洗翠）",
+   "name_en": "Arcanine-Hisui",
+   "types": [
+    "fire",
+    "rock"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 115,
+    "def": 80,
+    "spa": 95,
+    "spd": 80,
+    "spe": 90
+   },
+   "abilities": [
+    "intimidate",
+    "flash_fire",
+    "rock_head"
+   ],
+   "weight": 168,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "politoed",
+   "name": "蚊香蛙皇",
+   "name_en": "Politoed",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 75,
+    "def": 75,
+    "spa": 90,
+    "spd": 100,
+    "spe": 70
+   },
+   "abilities": [
+    "water_absorb",
+    "damp",
+    "drizzle"
+   ],
+   "weight": 33.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "alakazam",
+   "name": "胡地",
+   "name_en": "Alakazam",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 50,
+    "def": 45,
+    "spa": 135,
+    "spd": 95,
+    "spe": 120
+   },
+   "abilities": [
+    "synchronize",
+    "inner_focus",
+    "magic_guard"
+   ],
+   "weight": 48,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "alakazammega",
+   "name": "超级胡地",
+   "name_en": "Alakazam-Mega",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 50,
+    "def": 65,
+    "spa": 175,
+    "spd": 105,
+    "spe": 150
+   },
+   "abilities": [
+    "trace"
+   ],
+   "weight": 48,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "machamp",
+   "name": "怪力",
+   "name_en": "Machamp",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 130,
+    "def": 80,
+    "spa": 65,
+    "spd": 85,
+    "spe": 55
+   },
+   "abilities": [
+    "guts",
+    "no_guard",
+    "steadfast"
+   ],
+   "weight": 130,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "victreebel",
+   "name": "大食花",
+   "name_en": "Victreebel",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "spa": 100,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "chlorophyll",
+    "gluttony"
+   ],
+   "weight": 15.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "victreebelmega",
+   "name": "超级大食花",
+   "name_en": "Victreebel-Mega",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 125,
+    "def": 85,
+    "spa": 135,
+    "spd": 95,
+    "spe": 70
+   },
+   "abilities": [
+    "innards_out"
+   ],
+   "weight": 125.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "slowbro",
+   "name": "呆壳兽",
+   "name_en": "Slowbro",
+   "types": [
+    "water",
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "spa": 100,
+    "spd": 80,
+    "spe": 30
+   },
+   "abilities": [
+    "oblivious",
+    "own_tempo",
+    "regenerator"
+   ],
+   "weight": 78.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "slowbromega",
+   "name": "超级呆壳兽",
+   "name_en": "Slowbro-Mega",
+   "types": [
+    "water",
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 75,
+    "def": 180,
+    "spa": 130,
+    "spd": 80,
+    "spe": 30
+   },
+   "abilities": [
+    "shell_armor"
+   ],
+   "weight": 120,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "slowbrogalar",
+   "name": "呆壳兽（伽勒尔）",
+   "name_en": "Slowbro-Galar",
+   "types": [
+    "poison",
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 100,
+    "def": 95,
+    "spa": 100,
+    "spd": 70,
+    "spe": 30
+   },
+   "abilities": [
+    "quick_draw",
+    "own_tempo",
+    "regenerator"
+   ],
+   "weight": 70.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "slowking",
+   "name": "呆呆王",
+   "name_en": "Slowking",
+   "types": [
+    "water",
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 75,
+    "def": 80,
+    "spa": 100,
+    "spd": 110,
+    "spe": 30
+   },
+   "abilities": [
+    "oblivious",
+    "own_tempo",
+    "regenerator"
+   ],
+   "weight": 79.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "slowkinggalar",
+   "name": "呆呆王（伽勒尔）",
+   "name_en": "Slowking-Galar",
+   "types": [
+    "poison",
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 65,
+    "def": 80,
+    "spa": 110,
+    "spd": 110,
+    "spe": 30
+   },
+   "abilities": [
+    "curious_medicine",
+    "own_tempo",
+    "regenerator"
+   ],
+   "weight": 79.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "farfetchd",
+   "name": "大葱鸭",
+   "name_en": "Farfetch’d",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 52,
+    "atk": 90,
+    "def": 55,
+    "spa": 58,
+    "spd": 62,
+    "spe": 60
+   },
+   "abilities": [
+    "keen_eye",
+    "inner_focus",
+    "defiant"
+   ],
+   "weight": 15,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sirfetchd",
+   "name": "葱游兵",
+   "name_en": "Sirfetch’d",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 62,
+    "atk": 135,
+    "def": 95,
+    "spa": 68,
+    "spd": 82,
+    "spe": 65
+   },
+   "abilities": [
+    "steadfast",
+    "scrappy"
+   ],
+   "weight": 117,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gengar",
+   "name": "耿鬼",
+   "name_en": "Gengar",
+   "types": [
+    "ghost",
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "spa": 130,
+    "spd": 75,
+    "spe": 110
+   },
+   "abilities": [
+    "cursed_body"
+   ],
+   "weight": 40.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gengarmega",
+   "name": "超级耿鬼",
+   "name_en": "Gengar-Mega",
+   "types": [
+    "ghost",
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 65,
+    "def": 80,
+    "spa": 170,
+    "spd": 95,
+    "spe": 130
+   },
+   "abilities": [
+    "shadow_tag"
+   ],
+   "weight": 40.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "steelix",
+   "name": "大钢蛇",
+   "name_en": "Steelix",
+   "types": [
+    "steel",
+    "ground"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 85,
+    "def": 200,
+    "spa": 55,
+    "spd": 65,
+    "spe": 30
+   },
+   "abilities": [
+    "rock_head",
+    "sturdy",
+    "sheer_force"
+   ],
+   "weight": 400,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "steelixmega",
+   "name": "超级大钢蛇",
+   "name_en": "Steelix-Mega",
+   "types": [
+    "steel",
+    "ground"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 125,
+    "def": 230,
+    "spa": 55,
+    "spd": 95,
+    "spe": 30
+   },
+   "abilities": [
+    "sand_force"
+   ],
+   "weight": 740,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "rhyperior",
+   "name": "超甲狂犀",
+   "name_en": "Rhyperior",
+   "types": [
+    "ground",
+    "rock"
+   ],
+   "base": {
+    "hp": 115,
+    "atk": 140,
+    "def": 130,
+    "spa": 55,
+    "spd": 55,
+    "spe": 40
+   },
+   "abilities": [
+    "lightning_rod",
+    "solid_rock",
+    "reckless"
+   ],
+   "weight": 282.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "kangaskhan",
+   "name": "袋兽",
+   "name_en": "Kangaskhan",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 105,
+    "atk": 95,
+    "def": 80,
+    "spa": 40,
+    "spd": 80,
+    "spe": 90
+   },
+   "abilities": [
+    "early_bird",
+    "scrappy",
+    "inner_focus"
+   ],
+   "weight": 80,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "kangaskhanmega",
+   "name": "超级袋兽",
+   "name_en": "Kangaskhan-Mega",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 105,
+    "atk": 125,
+    "def": 100,
+    "spa": 60,
+    "spd": 100,
+    "spe": 100
+   },
+   "abilities": [
+    "parental_bond"
+   ],
+   "weight": 100,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "starmie",
+   "name": "宝石海星",
+   "name_en": "Starmie",
+   "types": [
+    "water",
+    "psychic"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 75,
+    "def": 85,
+    "spa": 100,
+    "spd": 85,
+    "spe": 115
+   },
+   "abilities": [
+    "illuminate",
+    "natural_cure",
+    "analytic"
+   ],
+   "weight": 80,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "starmiemega",
+   "name": "超级宝石海星",
+   "name_en": "Starmie-Mega",
+   "types": [
+    "water",
+    "psychic"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 100,
+    "def": 105,
+    "spa": 130,
+    "spd": 105,
+    "spe": 120
+   },
+   "abilities": [
+    "huge_power"
+   ],
+   "weight": 80,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "mrmime",
+   "name": "魔墙人偶",
+   "name_en": "Mr. Mime",
+   "types": [
+    "psychic",
+    "fairy"
+   ],
+   "base": {
+    "hp": 40,
+    "atk": 45,
+    "def": 65,
+    "spa": 100,
+    "spd": 120,
+    "spe": 90
+   },
+   "abilities": [
+    "soundproof",
+    "filter",
+    "technician"
+   ],
+   "weight": 54.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "mrrime",
+   "name": "踏冰人偶",
+   "name_en": "Mr. Rime",
+   "types": [
+    "ice",
+    "psychic"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 85,
+    "def": 75,
+    "spa": 110,
+    "spd": 100,
+    "spe": 70
+   },
+   "abilities": [
+    "tangled_feet",
+    "screen_cleaner",
+    "ice_body"
+   ],
+   "weight": 58.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scizor",
+   "name": "巨钳螳螂",
+   "name_en": "Scizor",
+   "types": [
+    "bug",
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 130,
+    "def": 100,
+    "spa": 55,
+    "spd": 80,
+    "spe": 65
+   },
+   "abilities": [
+    "swarm",
+    "technician",
+    "light_metal"
+   ],
+   "weight": 118,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scizormega",
+   "name": "超级巨钳螳螂",
+   "name_en": "Scizor-Mega",
+   "types": [
+    "bug",
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 150,
+    "def": 140,
+    "spa": 65,
+    "spd": 100,
+    "spe": 75
+   },
+   "abilities": [
+    "technician"
+   ],
+   "weight": 125,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "kleavor",
+   "name": "劈斧螳螂",
+   "name_en": "Kleavor",
+   "types": [
+    "bug",
+    "rock"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 135,
+    "def": 95,
+    "spa": 45,
+    "spd": 70,
+    "spe": 85
+   },
+   "abilities": [
+    "swarm",
+    "sheer_force",
+    "sharpness"
+   ],
+   "weight": 89,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pinsir",
+   "name": "凯罗斯",
+   "name_en": "Pinsir",
+   "types": [
+    "bug"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "spa": 55,
+    "spd": 70,
+    "spe": 85
+   },
+   "abilities": [
+    "hyper_cutter",
+    "mold_breaker",
+    "moxie"
+   ],
+   "weight": 55,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pinsirmega",
+   "name": "超级凯罗斯",
+   "name_en": "Pinsir-Mega",
+   "types": [
+    "bug",
+    "flying"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 155,
+    "def": 120,
+    "spa": 65,
+    "spd": 90,
+    "spe": 105
+   },
+   "abilities": [
+    "aerilate"
+   ],
+   "weight": 59,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "tauros",
+   "name": "肯泰罗",
+   "name_en": "Tauros",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 100,
+    "def": 95,
+    "spa": 40,
+    "spd": 70,
+    "spe": 110
+   },
+   "abilities": [
+    "intimidate",
+    "anger_point",
+    "sheer_force"
+   ],
+   "weight": 88.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "taurospaldeacombat",
+   "name": "肯泰罗（帕底亚·斗战种）",
+   "name_en": "Tauros-Paldea-Combat",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 110,
+    "def": 105,
+    "spa": 30,
+    "spd": 70,
+    "spe": 100
+   },
+   "abilities": [
+    "intimidate",
+    "anger_point",
+    "cud_chew"
+   ],
+   "weight": 115,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "taurospaldeablaze",
+   "name": "肯泰罗（帕底亚·火炽种）",
+   "name_en": "Tauros-Paldea-Blaze",
+   "types": [
+    "fighting",
+    "fire"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 110,
+    "def": 105,
+    "spa": 30,
+    "spd": 70,
+    "spe": 100
+   },
+   "abilities": [
+    "intimidate",
+    "anger_point",
+    "cud_chew"
+   ],
+   "weight": 85,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "taurospaldeaaqua",
+   "name": "肯泰罗（帕底亚·水澜种）",
+   "name_en": "Tauros-Paldea-Aqua",
+   "types": [
+    "fighting",
+    "water"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 110,
+    "def": 105,
+    "spa": 30,
+    "spd": 70,
+    "spe": 100
+   },
+   "abilities": [
+    "intimidate",
+    "anger_point",
+    "cud_chew"
+   ],
+   "weight": 110,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gyarados",
+   "name": "暴鲤龙",
+   "name_en": "Gyarados",
+   "types": [
+    "water",
+    "flying"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spa": 60,
+    "spd": 100,
+    "spe": 81
+   },
+   "abilities": [
+    "intimidate",
+    "moxie"
+   ],
+   "weight": 235,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gyaradosmega",
+   "name": "超级暴鲤龙",
+   "name_en": "Gyarados-Mega",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 155,
+    "def": 109,
+    "spa": 70,
+    "spd": 130,
+    "spe": 81
+   },
+   "abilities": [
+    "mold_breaker"
+   ],
+   "weight": 305,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "ditto",
+   "name": "百变怪",
+   "name_en": "Ditto",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 48,
+    "atk": 48,
+    "def": 48,
+    "spa": 48,
+    "spd": 48,
+    "spe": 48
+   },
+   "abilities": [
+    "limber",
+    "imposter"
+   ],
+   "weight": 4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "vaporeon",
+   "name": "水伊布",
+   "name_en": "Vaporeon",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 130,
+    "atk": 65,
+    "def": 60,
+    "spa": 110,
+    "spd": 95,
+    "spe": 65
+   },
+   "abilities": [
+    "water_absorb",
+    "hydration"
+   ],
+   "weight": 29,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "jolteon",
+   "name": "雷伊布",
+   "name_en": "Jolteon",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "spa": 110,
+    "spd": 95,
+    "spe": 130
+   },
+   "abilities": [
+    "volt_absorb",
+    "quick_feet"
+   ],
+   "weight": 24.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "flareon",
+   "name": "火伊布",
+   "name_en": "Flareon",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spa": 95,
+    "spd": 110,
+    "spe": 65
+   },
+   "abilities": [
+    "flash_fire",
+    "guts"
+   ],
+   "weight": 25,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "espeon",
+   "name": "太阳伊布",
+   "name_en": "Espeon",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "spa": 130,
+    "spd": 95,
+    "spe": 110
+   },
+   "abilities": [
+    "synchronize",
+    "magic_bounce"
+   ],
+   "weight": 26.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "umbreon",
+   "name": "月亮伊布",
+   "name_en": "Umbreon",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 65,
+    "def": 110,
+    "spa": 60,
+    "spd": 130,
+    "spe": 65
+   },
+   "abilities": [
+    "synchronize",
+    "inner_focus"
+   ],
+   "weight": 27,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "leafeon",
+   "name": "叶伊布",
+   "name_en": "Leafeon",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 110,
+    "def": 130,
+    "spa": 60,
+    "spd": 65,
+    "spe": 95
+   },
+   "abilities": [
+    "leaf_guard",
+    "chlorophyll"
+   ],
+   "weight": 25.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "glaceon",
+   "name": "冰伊布",
+   "name_en": "Glaceon",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 60,
+    "def": 110,
+    "spa": 130,
+    "spd": 95,
+    "spe": 65
+   },
+   "abilities": [
+    "snow_cloak",
+    "ice_body"
+   ],
+   "weight": 25.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sylveon",
+   "name": "仙子伊布",
+   "name_en": "Sylveon",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 65,
+    "def": 65,
+    "spa": 110,
+    "spd": 130,
+    "spe": 60
+   },
+   "abilities": [
+    "cute_charm",
+    "pixilate"
+   ],
+   "weight": 23.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aerodactyl",
+   "name": "化石翼龙",
+   "name_en": "Aerodactyl",
+   "types": [
+    "rock",
+    "flying"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "spa": 60,
+    "spd": 75,
+    "spe": 130
+   },
+   "abilities": [
+    "rock_head",
+    "pressure",
+    "unnerve"
+   ],
+   "weight": 59,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aerodactylmega",
+   "name": "超级化石翼龙",
+   "name_en": "Aerodactyl-Mega",
+   "types": [
+    "rock",
+    "flying"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 135,
+    "def": 85,
+    "spa": 70,
+    "spd": 95,
+    "spe": 150
+   },
+   "abilities": [
+    "tough_claws"
+   ],
+   "weight": 79,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "snorlax",
+   "name": "卡比兽",
+   "name_en": "Snorlax",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 160,
+    "atk": 110,
+    "def": 65,
+    "spa": 65,
+    "spd": 110,
+    "spe": 30
+   },
+   "abilities": [
+    "immunity",
+    "thick_fat",
+    "gluttony"
+   ],
+   "weight": 460,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "dragonite",
+   "name": "快龙",
+   "name_en": "Dragonite",
+   "types": [
+    "dragon",
+    "flying"
+   ],
+   "base": {
+    "hp": 91,
+    "atk": 134,
+    "def": 95,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+   },
+   "abilities": [
+    "inner_focus",
+    "multiscale"
+   ],
+   "weight": 210,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "dragonitemega",
+   "name": "超级快龙",
+   "name_en": "Dragonite-Mega",
+   "types": [
+    "dragon",
+    "flying"
+   ],
+   "base": {
+    "hp": 91,
+    "atk": 124,
+    "def": 115,
+    "spa": 145,
+    "spd": 125,
+    "spe": 100
+   },
+   "abilities": [
+    "multiscale"
+   ],
+   "weight": 290,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "meganium",
+   "name": "大竺葵",
+   "name_en": "Meganium",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 82,
+    "def": 100,
+    "spa": 83,
+    "spd": 100,
+    "spe": 80
+   },
+   "abilities": [
+    "overgrow",
+    "leaf_guard"
+   ],
+   "weight": 100.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "meganiummega",
+   "name": "超级大竺葵",
+   "name_en": "Meganium-Mega",
+   "types": [
+    "grass",
+    "fairy"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 92,
+    "def": 115,
+    "spa": 143,
+    "spd": 115,
+    "spe": 80
+   },
+   "abilities": [
+    "mega_sol"
+   ],
+   "weight": 201,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "typhlosion",
+   "name": "火暴兽",
+   "name_en": "Typhlosion",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spa": 109,
+    "spd": 85,
+    "spe": 100
+   },
+   "abilities": [
+    "blaze",
+    "flash_fire"
+   ],
+   "weight": 79.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "typhlosionhisui",
+   "name": "火暴兽（洗翠）",
+   "name_en": "Typhlosion-Hisui",
+   "types": [
+    "fire",
+    "ghost"
+   ],
+   "base": {
+    "hp": 73,
+    "atk": 84,
+    "def": 78,
+    "spa": 119,
+    "spd": 85,
+    "spe": 95
+   },
+   "abilities": [
+    "blaze",
+    "frisk"
+   ],
+   "weight": 69.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "feraligatr",
+   "name": "大力鳄",
+   "name_en": "Feraligatr",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 105,
+    "def": 100,
+    "spa": 79,
+    "spd": 83,
+    "spe": 78
+   },
+   "abilities": [
+    "torrent",
+    "sheer_force"
+   ],
+   "weight": 88.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "feraligatrmega",
+   "name": "超级大力鳄",
+   "name_en": "Feraligatr-Mega",
+   "types": [
+    "water",
+    "dragon"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 160,
+    "def": 125,
+    "spa": 89,
+    "spd": 93,
+    "spe": 78
+   },
+   "abilities": [
+    "dragonize"
+   ],
+   "weight": 108.8,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "ariados",
+   "name": "阿利多斯",
+   "name_en": "Ariados",
+   "types": [
+    "bug",
+    "poison"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 90,
+    "def": 70,
+    "spa": 60,
+    "spd": 70,
+    "spe": 40
+   },
+   "abilities": [
+    "swarm",
+    "insomnia",
+    "sniper"
+   ],
+   "weight": 33.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "ampharos",
+   "name": "电龙",
+   "name_en": "Ampharos",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 75,
+    "def": 85,
+    "spa": 115,
+    "spd": 90,
+    "spe": 55
+   },
+   "abilities": [
+    "static",
+    "plus"
+   ],
+   "weight": 61.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "ampharosmega",
+   "name": "超级电龙",
+   "name_en": "Ampharos-Mega",
+   "types": [
+    "electric",
+    "dragon"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 95,
+    "def": 105,
+    "spa": 165,
+    "spd": 110,
+    "spe": 45
+   },
+   "abilities": [
+    "mold_breaker"
+   ],
+   "weight": 61.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "azumarill",
+   "name": "玛力露丽",
+   "name_en": "Azumarill",
+   "types": [
+    "water",
+    "fairy"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 50,
+    "def": 80,
+    "spa": 60,
+    "spd": 80,
+    "spe": 50
+   },
+   "abilities": [
+    "thick_fat",
+    "huge_power",
+    "sap_sipper"
+   ],
+   "weight": 28.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "farigiraf",
+   "name": "奇麒麟",
+   "name_en": "Farigiraf",
+   "types": [
+    "normal",
+    "psychic"
+   ],
+   "base": {
+    "hp": 120,
+    "atk": 90,
+    "def": 70,
+    "spa": 110,
+    "spd": 70,
+    "spe": 60
+   },
+   "abilities": [
+    "cud_chew",
+    "armor_tail",
+    "sap_sipper"
+   ],
+   "weight": 160,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "forretress",
+   "name": "佛烈托斯",
+   "name_en": "Forretress",
+   "types": [
+    "bug",
+    "steel"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 90,
+    "def": 140,
+    "spa": 60,
+    "spd": 60,
+    "spe": 40
+   },
+   "abilities": [
+    "sturdy",
+    "overcoat"
+   ],
+   "weight": 125.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gliscor",
+   "name": "天蝎王",
+   "name_en": "Gliscor",
+   "types": [
+    "ground",
+    "flying"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 95,
+    "def": 125,
+    "spa": 45,
+    "spd": 75,
+    "spe": 95
+   },
+   "abilities": [
+    "hyper_cutter",
+    "sand_veil",
+    "poison_heal"
+   ],
+   "weight": 42.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "qwilfish",
+   "name": "千针鱼",
+   "name_en": "Qwilfish",
+   "types": [
+    "water",
+    "poison"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 95,
+    "def": 85,
+    "spa": 55,
+    "spd": 55,
+    "spe": 85
+   },
+   "abilities": [
+    "poison_point",
+    "swift_swim",
+    "intimidate"
+   ],
+   "weight": 3.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "overqwil",
+   "name": "万针鱼",
+   "name_en": "Overqwil",
+   "types": [
+    "dark",
+    "poison"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 115,
+    "def": 95,
+    "spa": 65,
+    "spd": 65,
+    "spe": 85
+   },
+   "abilities": [
+    "poison_point",
+    "swift_swim",
+    "intimidate"
+   ],
+   "weight": 60.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "heracross",
+   "name": "赫拉克罗斯",
+   "name_en": "Heracross",
+   "types": [
+    "bug",
+    "fighting"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 125,
+    "def": 75,
+    "spa": 40,
+    "spd": 95,
+    "spe": 85
+   },
+   "abilities": [
+    "swarm",
+    "guts",
+    "moxie"
+   ],
+   "weight": 54,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "heracrossmega",
+   "name": "超级赫拉克罗斯",
+   "name_en": "Heracross-Mega",
+   "types": [
+    "bug",
+    "fighting"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 185,
+    "def": 115,
+    "spa": 40,
+    "spd": 105,
+    "spe": 75
+   },
+   "abilities": [
+    "skill_link"
+   ],
+   "weight": 62.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "weavile",
+   "name": "玛狃拉",
+   "name_en": "Weavile",
+   "types": [
+    "dark",
+    "ice"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 120,
+    "def": 65,
+    "spa": 45,
+    "spd": 85,
+    "spe": 125
+   },
+   "abilities": [
+    "pressure",
+    "pickpocket"
+   ],
+   "weight": 34,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sneasler",
+   "name": "大狃拉",
+   "name_en": "Sneasler",
+   "types": [
+    "fighting",
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 130,
+    "def": 60,
+    "spa": 40,
+    "spd": 80,
+    "spe": 120
+   },
+   "abilities": [
+    "pressure",
+    "unburden",
+    "poison_touch"
+   ],
+   "weight": 43,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "mamoswine",
+   "name": "象牙猪",
+   "name_en": "Mamoswine",
+   "types": [
+    "ice",
+    "ground"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 130,
+    "def": 80,
+    "spa": 70,
+    "spd": 60,
+    "spe": 80
+   },
+   "abilities": [
+    "oblivious",
+    "snow_cloak",
+    "thick_fat"
+   ],
+   "weight": 291,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "skarmory",
+   "name": "盔甲鸟",
+   "name_en": "Skarmory",
+   "types": [
+    "steel",
+    "flying"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 80,
+    "def": 140,
+    "spa": 40,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "keen_eye",
+    "sturdy",
+    "weak_armor"
+   ],
+   "weight": 50.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "skarmorymega",
+   "name": "超级盔甲鸟",
+   "name_en": "Skarmory-Mega",
+   "types": [
+    "steel",
+    "flying"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 140,
+    "def": 110,
+    "spa": 40,
+    "spd": 100,
+    "spe": 110
+   },
+   "abilities": [
+    "stalwart"
+   ],
+   "weight": 40.4,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "houndoom",
+   "name": "黑鲁加",
+   "name_en": "Houndoom",
+   "types": [
+    "dark",
+    "fire"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 90,
+    "def": 50,
+    "spa": 110,
+    "spd": 80,
+    "spe": 95
+   },
+   "abilities": [
+    "early_bird",
+    "flash_fire",
+    "unnerve"
+   ],
+   "weight": 35,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "houndoommega",
+   "name": "超级黑鲁加",
+   "name_en": "Houndoom-Mega",
+   "types": [
+    "dark",
+    "fire"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 90,
+    "def": 90,
+    "spa": 140,
+    "spd": 90,
+    "spe": 115
+   },
+   "abilities": [
+    "solar_power"
+   ],
+   "weight": 49.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "wyrdeer",
+   "name": "诡角鹿",
+   "name_en": "Wyrdeer",
+   "types": [
+    "normal",
+    "psychic"
+   ],
+   "base": {
+    "hp": 103,
+    "atk": 105,
+    "def": 72,
+    "spa": 105,
+    "spd": 75,
+    "spe": 65
+   },
+   "abilities": [
+    "intimidate",
+    "frisk",
+    "sap_sipper"
+   ],
+   "weight": 95.1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "tyranitar",
+   "name": "班基拉斯",
+   "name_en": "Tyranitar",
+   "types": [
+    "rock",
+    "dark"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "spa": 95,
+    "spd": 100,
+    "spe": 61
+   },
+   "abilities": [
+    "sand_stream",
+    "unnerve"
+   ],
+   "weight": 202,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "tyranitarmega",
+   "name": "超级班基拉斯",
+   "name_en": "Tyranitar-Mega",
+   "types": [
+    "rock",
+    "dark"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 164,
+    "def": 150,
+    "spa": 95,
+    "spd": 120,
+    "spe": 71
+   },
+   "abilities": [
+    "sand_stream"
+   ],
+   "weight": 255,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "sceptile",
+   "name": "蜥蜴王",
+   "name_en": "Sceptile",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "spa": 105,
+    "spd": 85,
+    "spe": 120
+   },
+   "abilities": [
+    "overgrow",
+    "unburden"
+   ],
+   "weight": 52.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sceptilemega",
+   "name": "超级蜥蜴王",
+   "name_en": "Sceptile-Mega",
+   "types": [
+    "grass",
+    "dragon"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 110,
+    "def": 75,
+    "spa": 145,
+    "spd": 85,
+    "spe": 145
+   },
+   "abilities": [
+    "lightning_rod"
+   ],
+   "weight": 55.2,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "blaziken",
+   "name": "火焰鸡",
+   "name_en": "Blaziken",
+   "types": [
+    "fire",
+    "fighting"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 120,
+    "def": 70,
+    "spa": 110,
+    "spd": 70,
+    "spe": 80
+   },
+   "abilities": [
+    "blaze",
+    "speed_boost"
+   ],
+   "weight": 52,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "blazikenmega",
+   "name": "超级火焰鸡",
+   "name_en": "Blaziken-Mega",
+   "types": [
+    "fire",
+    "fighting"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 160,
+    "def": 80,
+    "spa": 130,
+    "spd": 80,
+    "spe": 100
+   },
+   "abilities": [
+    "speed_boost"
+   ],
+   "weight": 52,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "swampert",
+   "name": "巨沼怪",
+   "name_en": "Swampert",
+   "types": [
+    "water",
+    "ground"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 110,
+    "def": 90,
+    "spa": 85,
+    "spd": 90,
+    "spe": 60
+   },
+   "abilities": [
+    "torrent",
+    "damp"
+   ],
+   "weight": 81.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "swampertmega",
+   "name": "超级巨沼怪",
+   "name_en": "Swampert-Mega",
+   "types": [
+    "water",
+    "ground"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 150,
+    "def": 110,
+    "spa": 95,
+    "spd": 110,
+    "spe": 70
+   },
+   "abilities": [
+    "swift_swim"
+   ],
+   "weight": 102,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "pelipper",
+   "name": "大嘴鸥",
+   "name_en": "Pelipper",
+   "types": [
+    "water",
+    "flying"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "spa": 95,
+    "spd": 70,
+    "spe": 65
+   },
+   "abilities": [
+    "keen_eye",
+    "drizzle",
+    "rain_dish"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gardevoir",
+   "name": "沙奈朵",
+   "name_en": "Gardevoir",
+   "types": [
+    "psychic",
+    "fairy"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 65,
+    "def": 65,
+    "spa": 125,
+    "spd": 115,
+    "spe": 80
+   },
+   "abilities": [
+    "synchronize",
+    "trace",
+    "telepathy"
+   ],
+   "weight": 48.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gardevoirmega",
+   "name": "超级沙奈朵",
+   "name_en": "Gardevoir-Mega",
+   "types": [
+    "psychic",
+    "fairy"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 85,
+    "def": 65,
+    "spa": 165,
+    "spd": 135,
+    "spe": 100
+   },
+   "abilities": [
+    "pixilate"
+   ],
+   "weight": 48.4,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "gallade",
+   "name": "艾路雷朵",
+   "name_en": "Gallade",
+   "types": [
+    "psychic",
+    "fighting"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 125,
+    "def": 65,
+    "spa": 65,
+    "spd": 115,
+    "spe": 80
+   },
+   "abilities": [
+    "steadfast",
+    "sharpness",
+    "justified"
+   ],
+   "weight": 52,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gallademega",
+   "name": "超级艾路雷朵",
+   "name_en": "Gallade-Mega",
+   "types": [
+    "psychic",
+    "fighting"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 165,
+    "def": 95,
+    "spa": 65,
+    "spd": 115,
+    "spe": 110
+   },
+   "abilities": [
+    "inner_focus"
+   ],
+   "weight": 56.4,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "sableye",
+   "name": "勾魂眼",
+   "name_en": "Sableye",
+   "types": [
+    "dark",
+    "ghost"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 75,
+    "def": 75,
+    "spa": 65,
+    "spd": 65,
+    "spe": 50
+   },
+   "abilities": [
+    "keen_eye",
+    "stall",
+    "prankster"
+   ],
+   "weight": 11,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sableyemega",
+   "name": "超级勾魂眼",
+   "name_en": "Sableye-Mega",
+   "types": [
+    "dark",
+    "ghost"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 85,
+    "def": 125,
+    "spa": 85,
+    "spd": 115,
+    "spe": 20
+   },
+   "abilities": [
+    "magic_bounce"
+   ],
+   "weight": 161,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "mawile",
+   "name": "大嘴娃",
+   "name_en": "Mawile",
+   "types": [
+    "steel",
+    "fairy"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 85,
+    "def": 85,
+    "spa": 55,
+    "spd": 55,
+    "spe": 50
+   },
+   "abilities": [
+    "hyper_cutter",
+    "intimidate",
+    "sheer_force"
+   ],
+   "weight": 11.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "mawilemega",
+   "name": "超级大嘴娃",
+   "name_en": "Mawile-Mega",
+   "types": [
+    "steel",
+    "fairy"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 105,
+    "def": 125,
+    "spa": 55,
+    "spd": 95,
+    "spe": 50
+   },
+   "abilities": [
+    "huge_power"
+   ],
+   "weight": 23.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "aggron",
+   "name": "波士可多拉",
+   "name_en": "Aggron",
+   "types": [
+    "steel",
+    "rock"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 110,
+    "def": 180,
+    "spa": 60,
+    "spd": 60,
+    "spe": 50
+   },
+   "abilities": [
+    "sturdy",
+    "rock_head",
+    "heavy_metal"
+   ],
+   "weight": 360,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aggronmega",
+   "name": "超级波士可多拉",
+   "name_en": "Aggron-Mega",
+   "types": [
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 140,
+    "def": 230,
+    "spa": 60,
+    "spd": 80,
+    "spe": 50
+   },
+   "abilities": [
+    "filter"
+   ],
+   "weight": 395,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "medicham",
+   "name": "恰雷姆",
+   "name_en": "Medicham",
+   "types": [
+    "fighting",
+    "psychic"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 60,
+    "def": 75,
+    "spa": 60,
+    "spd": 75,
+    "spe": 80
+   },
+   "abilities": [
+    "pure_power",
+    "telepathy"
+   ],
+   "weight": 31.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "medichammega",
+   "name": "超级恰雷姆",
+   "name_en": "Medicham-Mega",
+   "types": [
+    "fighting",
+    "psychic"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 100,
+    "def": 85,
+    "spa": 80,
+    "spd": 85,
+    "spe": 100
+   },
+   "abilities": [
+    "pure_power"
+   ],
+   "weight": 31.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "manectric",
+   "name": "雷电兽",
+   "name_en": "Manectric",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 75,
+    "def": 60,
+    "spa": 105,
+    "spd": 60,
+    "spe": 105
+   },
+   "abilities": [
+    "static",
+    "lightning_rod",
+    "minus"
+   ],
+   "weight": 40.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "manectricmega",
+   "name": "超级雷电兽",
+   "name_en": "Manectric-Mega",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 75,
+    "def": 80,
+    "spa": 135,
+    "spd": 80,
+    "spe": 135
+   },
+   "abilities": [
+    "intimidate"
+   ],
+   "weight": 44,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "roserade",
+   "name": "罗丝雷朵",
+   "name_en": "Roserade",
+   "types": [
+    "grass",
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 70,
+    "def": 65,
+    "spa": 125,
+    "spd": 105,
+    "spe": 90
+   },
+   "abilities": [
+    "natural_cure",
+    "poison_point",
+    "technician"
+   ],
+   "weight": 14.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "swalot",
+   "name": "吞食兽",
+   "name_en": "Swalot",
+   "types": [
+    "poison"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 73,
+    "def": 83,
+    "spa": 73,
+    "spd": 83,
+    "spe": 55
+   },
+   "abilities": [
+    "liquid_ooze",
+    "sticky_hold",
+    "gluttony"
+   ],
+   "weight": 80,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sharpedo",
+   "name": "巨牙鲨",
+   "name_en": "Sharpedo",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 120,
+    "def": 40,
+    "spa": 95,
+    "spd": 40,
+    "spe": 95
+   },
+   "abilities": [
+    "rough_skin",
+    "speed_boost"
+   ],
+   "weight": 88.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sharpedomega",
+   "name": "超级巨牙鲨",
+   "name_en": "Sharpedo-Mega",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 140,
+    "def": 70,
+    "spa": 110,
+    "spd": 65,
+    "spe": 105
+   },
+   "abilities": [
+    "strong_jaw"
+   ],
+   "weight": 130.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "camerupt",
+   "name": "喷火驼",
+   "name_en": "Camerupt",
+   "types": [
+    "fire",
+    "ground"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 100,
+    "def": 70,
+    "spa": 105,
+    "spd": 75,
+    "spe": 40
+   },
+   "abilities": [
+    "magma_armor",
+    "solid_rock",
+    "anger_point"
+   ],
+   "weight": 220,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "cameruptmega",
+   "name": "超级喷火驼",
+   "name_en": "Camerupt-Mega",
+   "types": [
+    "fire",
+    "ground"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 120,
+    "def": 100,
+    "spa": 145,
+    "spd": 105,
+    "spe": 20
+   },
+   "abilities": [
+    "sheer_force"
+   ],
+   "weight": 320.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "torkoal",
+   "name": "煤炭龟",
+   "name_en": "Torkoal",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 85,
+    "def": 140,
+    "spa": 85,
+    "spd": 70,
+    "spe": 20
+   },
+   "abilities": [
+    "white_smoke",
+    "drought",
+    "shell_armor"
+   ],
+   "weight": 80.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "altaria",
+   "name": "七夕青鸟",
+   "name_en": "Altaria",
+   "types": [
+    "dragon",
+    "flying"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 70,
+    "def": 90,
+    "spa": 70,
+    "spd": 105,
+    "spe": 80
+   },
+   "abilities": [
+    "natural_cure",
+    "cloud_nine"
+   ],
+   "weight": 20.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "altariamega",
+   "name": "超级七夕青鸟",
+   "name_en": "Altaria-Mega",
+   "types": [
+    "dragon",
+    "fairy"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 110,
+    "def": 110,
+    "spa": 110,
+    "spd": 105,
+    "spe": 80
+   },
+   "abilities": [
+    "pixilate"
+   ],
+   "weight": 20.6,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "milotic",
+   "name": "美纳斯",
+   "name_en": "Milotic",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 60,
+    "def": 79,
+    "spa": 100,
+    "spd": 125,
+    "spe": 81
+   },
+   "abilities": [
+    "marvel_scale",
+    "competitive",
+    "cute_charm"
+   ],
+   "weight": 162,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "castform",
+   "name": "飘浮泡泡",
+   "name_en": "Castform",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "forecast"
+   ],
+   "weight": 0.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "castformsunny",
+   "name": "飘浮泡泡（太阳）",
+   "name_en": "Castform-Sunny",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "forecast"
+   ],
+   "weight": 0.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "castformrainy",
+   "name": "飘浮泡泡（雨水）",
+   "name_en": "Castform-Rainy",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "forecast"
+   ],
+   "weight": 0.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "castformsnowy",
+   "name": "飘浮泡泡（雪云）",
+   "name_en": "Castform-Snowy",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "forecast"
+   ],
+   "weight": 0.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "banette",
+   "name": "诅咒娃娃",
+   "name_en": "Banette",
+   "types": [
+    "ghost"
+   ],
+   "base": {
+    "hp": 64,
+    "atk": 115,
+    "def": 65,
+    "spa": 83,
+    "spd": 63,
+    "spe": 65
+   },
+   "abilities": [
+    "insomnia",
+    "frisk",
+    "cursed_body"
+   ],
+   "weight": 12.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "banettemega",
+   "name": "超级诅咒娃娃",
+   "name_en": "Banette-Mega",
+   "types": [
+    "ghost"
+   ],
+   "base": {
+    "hp": 64,
+    "atk": 165,
+    "def": 75,
+    "spa": 93,
+    "spd": 83,
+    "spe": 75
+   },
+   "abilities": [
+    "prankster"
+   ],
+   "weight": 13,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "chimecho",
+   "name": "风铃铃",
+   "name_en": "Chimecho",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 50,
+    "def": 80,
+    "spa": 95,
+    "spd": 90,
+    "spe": 65
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "chimechomega",
+   "name": "超级风铃铃",
+   "name_en": "Chimecho-Mega",
+   "types": [
+    "psychic",
+    "steel"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 50,
+    "def": 110,
+    "spa": 135,
+    "spd": 120,
+    "spe": 65
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 8,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "absol",
+   "name": "阿勃梭鲁",
+   "name_en": "Absol",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spa": 75,
+    "spd": 60,
+    "spe": 75
+   },
+   "abilities": [
+    "pressure",
+    "super_luck",
+    "justified"
+   ],
+   "weight": 47,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "absolmega",
+   "name": "超级阿勃梭鲁",
+   "name_en": "Absol-Mega",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 150,
+    "def": 60,
+    "spa": 115,
+    "spd": 60,
+    "spe": 115
+   },
+   "abilities": [
+    "magic_bounce"
+   ],
+   "weight": 49,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "absolmegaz",
+   "name": "超级阿勃梭鲁Ｚ",
+   "name_en": "Absol-Mega-Z",
+   "types": [
+    "dark",
+    "ghost"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 154,
+    "def": 60,
+    "spa": 75,
+    "spd": 60,
+    "spe": 151
+   },
+   "abilities": [
+    "magic_bounce"
+   ],
+   "weight": 49,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "glalie",
+   "name": "冰鬼护",
+   "name_en": "Glalie",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 80,
+    "def": 80,
+    "spa": 80,
+    "spd": 80,
+    "spe": 80
+   },
+   "abilities": [
+    "inner_focus",
+    "ice_body",
+    "moody"
+   ],
+   "weight": 256.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "glaliemega",
+   "name": "超级冰鬼护",
+   "name_en": "Glalie-Mega",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 120,
+    "def": 80,
+    "spa": 120,
+    "spd": 80,
+    "spe": 100
+   },
+   "abilities": [
+    "refrigerate"
+   ],
+   "weight": 350.2,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "froslass",
+   "name": "雪妖女",
+   "name_en": "Froslass",
+   "types": [
+    "ice",
+    "ghost"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 80,
+    "def": 70,
+    "spa": 80,
+    "spd": 70,
+    "spe": 110
+   },
+   "abilities": [
+    "snow_cloak",
+    "cursed_body"
+   ],
+   "weight": 26.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "froslassmega",
+   "name": "超级雪妖女",
+   "name_en": "Froslass-Mega",
+   "types": [
+    "ice",
+    "ghost"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 80,
+    "def": 70,
+    "spa": 140,
+    "spd": 100,
+    "spe": 120
+   },
+   "abilities": [
+    "snow_warning"
+   ],
+   "weight": 29.6,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "salamence",
+   "name": "暴飞龙",
+   "name_en": "Salamence",
+   "types": [
+    "dragon",
+    "flying"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 135,
+    "def": 80,
+    "spa": 110,
+    "spd": 80,
+    "spe": 100
+   },
+   "abilities": [
+    "intimidate",
+    "moxie"
+   ],
+   "weight": 102.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "salamencemega",
+   "name": "超级暴飞龙",
+   "name_en": "Salamence-Mega",
+   "types": [
+    "dragon",
+    "flying"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 145,
+    "def": 130,
+    "spa": 120,
+    "spd": 90,
+    "spe": 120
+   },
+   "abilities": [
+    "aerilate"
+   ],
+   "weight": 112.6,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "metagross",
+   "name": "巨金怪",
+   "name_en": "Metagross",
+   "types": [
+    "steel",
+    "psychic"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "spa": 95,
+    "spd": 90,
+    "spe": 70
+   },
+   "abilities": [
+    "clear_body",
+    "light_metal"
+   ],
+   "weight": 550,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "metagrossmega",
+   "name": "超级巨金怪",
+   "name_en": "Metagross-Mega",
+   "types": [
+    "steel",
+    "psychic"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 145,
+    "def": 150,
+    "spa": 105,
+    "spd": 110,
+    "spe": 110
+   },
+   "abilities": [
+    "tough_claws"
+   ],
+   "weight": 942.9,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "torterra",
+   "name": "土台龟",
+   "name_en": "Torterra",
+   "types": [
+    "grass",
+    "ground"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 109,
+    "def": 105,
+    "spa": 75,
+    "spd": 85,
+    "spe": 56
+   },
+   "abilities": [
+    "overgrow",
+    "shell_armor"
+   ],
+   "weight": 310,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "infernape",
+   "name": "烈焰猴",
+   "name_en": "Infernape",
+   "types": [
+    "fire",
+    "fighting"
+   ],
+   "base": {
+    "hp": 76,
+    "atk": 104,
+    "def": 71,
+    "spa": 104,
+    "spd": 71,
+    "spe": 108
+   },
+   "abilities": [
+    "blaze",
+    "iron_fist"
+   ],
+   "weight": 55,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "empoleon",
+   "name": "帝王拿波",
+   "name_en": "Empoleon",
+   "types": [
+    "water",
+    "steel"
+   ],
+   "base": {
+    "hp": 84,
+    "atk": 86,
+    "def": 88,
+    "spa": 111,
+    "spd": 101,
+    "spe": 60
+   },
+   "abilities": [
+    "torrent",
+    "competitive"
+   ],
+   "weight": 84.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "staraptor",
+   "name": "姆克鹰",
+   "name_en": "Staraptor",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 120,
+    "def": 70,
+    "spa": 50,
+    "spd": 60,
+    "spe": 100
+   },
+   "abilities": [
+    "intimidate",
+    "reckless"
+   ],
+   "weight": 24.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "staraptormega",
+   "name": "超级姆克鹰",
+   "name_en": "Staraptor-Mega",
+   "types": [
+    "fighting",
+    "flying"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 140,
+    "def": 100,
+    "spa": 60,
+    "spd": 90,
+    "spe": 110
+   },
+   "abilities": [
+    "contrary"
+   ],
+   "weight": 50,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "luxray",
+   "name": "伦琴猫",
+   "name_en": "Luxray",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 120,
+    "def": 79,
+    "spa": 95,
+    "spd": 79,
+    "spe": 70
+   },
+   "abilities": [
+    "rivalry",
+    "intimidate",
+    "guts"
+   ],
+   "weight": 42,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rampardos",
+   "name": "战槌龙",
+   "name_en": "Rampardos",
+   "types": [
+    "rock"
+   ],
+   "base": {
+    "hp": 97,
+    "atk": 165,
+    "def": 60,
+    "spa": 65,
+    "spd": 50,
+    "spe": 58
+   },
+   "abilities": [
+    "mold_breaker",
+    "sheer_force"
+   ],
+   "weight": 102.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "bastiodon",
+   "name": "护城龙",
+   "name_en": "Bastiodon",
+   "types": [
+    "rock",
+    "steel"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 52,
+    "def": 168,
+    "spa": 47,
+    "spd": 138,
+    "spe": 30
+   },
+   "abilities": [
+    "sturdy",
+    "soundproof"
+   ],
+   "weight": 149.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "lopunny",
+   "name": "长耳兔",
+   "name_en": "Lopunny",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 76,
+    "def": 84,
+    "spa": 54,
+    "spd": 96,
+    "spe": 105
+   },
+   "abilities": [
+    "cute_charm",
+    "klutz",
+    "limber"
+   ],
+   "weight": 33.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "lopunnymega",
+   "name": "超级长耳兔",
+   "name_en": "Lopunny-Mega",
+   "types": [
+    "normal",
+    "fighting"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 136,
+    "def": 94,
+    "spa": 54,
+    "spd": 96,
+    "spe": 135
+   },
+   "abilities": [
+    "scrappy"
+   ],
+   "weight": 28.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "spiritomb",
+   "name": "花岩怪",
+   "name_en": "Spiritomb",
+   "types": [
+    "ghost",
+    "dark"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "spa": 92,
+    "spd": 108,
+    "spe": 35
+   },
+   "abilities": [
+    "pressure",
+    "infiltrator"
+   ],
+   "weight": 108,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "garchomp",
+   "name": "烈咬陆鲨",
+   "name_en": "Garchomp",
+   "types": [
+    "dragon",
+    "ground"
+   ],
+   "base": {
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "spa": 80,
+    "spd": 85,
+    "spe": 102
+   },
+   "abilities": [
+    "sand_veil",
+    "rough_skin"
+   ],
+   "weight": 95,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "garchompmega",
+   "name": "超级烈咬陆鲨",
+   "name_en": "Garchomp-Mega",
+   "types": [
+    "dragon",
+    "ground"
+   ],
+   "base": {
+    "hp": 108,
+    "atk": 170,
+    "def": 115,
+    "spa": 120,
+    "spd": 95,
+    "spe": 92
+   },
+   "abilities": [
+    "sand_force"
+   ],
+   "weight": 95,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "garchompmegaz",
+   "name": "超级烈咬陆鲨Ｚ",
+   "name_en": "Garchomp-Mega-Z",
+   "types": [
+    "dragon"
+   ],
+   "base": {
+    "hp": 108,
+    "atk": 130,
+    "def": 85,
+    "spa": 141,
+    "spd": 85,
+    "spe": 151
+   },
+   "abilities": [
+    "sand_force"
+   ],
+   "weight": 99,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "lucario",
+   "name": "路卡利欧",
+   "name_en": "Lucario",
+   "types": [
+    "fighting",
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 110,
+    "def": 70,
+    "spa": 115,
+    "spd": 70,
+    "spe": 90
+   },
+   "abilities": [
+    "steadfast",
+    "inner_focus",
+    "justified"
+   ],
+   "weight": 54,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "lucariomega",
+   "name": "超级路卡利欧",
+   "name_en": "Lucario-Mega",
+   "types": [
+    "fighting",
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 145,
+    "def": 88,
+    "spa": 140,
+    "spd": 70,
+    "spe": 112
+   },
+   "abilities": [
+    "adaptability"
+   ],
+   "weight": 57.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "lucariomegaz",
+   "name": "超级路卡利欧Ｚ",
+   "name_en": "Lucario-Mega-Z",
+   "types": [
+    "fighting",
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 100,
+    "def": 70,
+    "spa": 164,
+    "spd": 70,
+    "spe": 151
+   },
+   "abilities": [
+    "adaptability"
+   ],
+   "weight": 49.4,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "hippowdon",
+   "name": "河马兽",
+   "name_en": "Hippowdon",
+   "types": [
+    "ground"
+   ],
+   "base": {
+    "hp": 108,
+    "atk": 112,
+    "def": 118,
+    "spa": 68,
+    "spd": 72,
+    "spe": 47
+   },
+   "abilities": [
+    "sand_stream",
+    "sand_force"
+   ],
+   "weight": 300,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "toxicroak",
+   "name": "毒骷蛙",
+   "name_en": "Toxicroak",
+   "types": [
+    "poison",
+    "fighting"
+   ],
+   "base": {
+    "hp": 83,
+    "atk": 106,
+    "def": 65,
+    "spa": 86,
+    "spd": 65,
+    "spe": 85
+   },
+   "abilities": [
+    "anticipation",
+    "dry_skin",
+    "poison_touch"
+   ],
+   "weight": 44.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "abomasnow",
+   "name": "暴雪王",
+   "name_en": "Abomasnow",
+   "types": [
+    "grass",
+    "ice"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 92,
+    "def": 75,
+    "spa": 92,
+    "spd": 85,
+    "spe": 60
+   },
+   "abilities": [
+    "snow_warning",
+    "soundproof"
+   ],
+   "weight": 135.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "abomasnowmega",
+   "name": "超级暴雪王",
+   "name_en": "Abomasnow-Mega",
+   "types": [
+    "grass",
+    "ice"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 132,
+    "def": 105,
+    "spa": 132,
+    "spd": 105,
+    "spe": 30
+   },
+   "abilities": [
+    "snow_warning"
+   ],
+   "weight": 185,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "rotom",
+   "name": "洛托姆",
+   "name_en": "Rotom",
+   "types": [
+    "electric",
+    "ghost"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "spa": 95,
+    "spd": 77,
+    "spe": 91
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rotomheat",
+   "name": "加热洛托姆",
+   "name_en": "Rotom-Heat",
+   "types": [
+    "electric",
+    "fire"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rotomwash",
+   "name": "清洗洛托姆",
+   "name_en": "Rotom-Wash",
+   "types": [
+    "electric",
+    "water"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rotomfrost",
+   "name": "结冰洛托姆",
+   "name_en": "Rotom-Frost",
+   "types": [
+    "electric",
+    "ice"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rotomfan",
+   "name": "旋转洛托姆",
+   "name_en": "Rotom-Fan",
+   "types": [
+    "electric",
+    "flying"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "rotommow",
+   "name": "切割洛托姆",
+   "name_en": "Rotom-Mow",
+   "types": [
+    "electric",
+    "grass"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 65,
+    "def": 107,
+    "spa": 105,
+    "spd": 107,
+    "spe": 86
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 0.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "serperior",
+   "name": "君主蛇",
+   "name_en": "Serperior",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 75,
+    "def": 95,
+    "spa": 75,
+    "spd": 95,
+    "spe": 113
+   },
+   "abilities": [
+    "overgrow",
+    "contrary"
+   ],
+   "weight": 63,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "emboar",
+   "name": "炎武王",
+   "name_en": "Emboar",
+   "types": [
+    "fire",
+    "fighting"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 123,
+    "def": 65,
+    "spa": 100,
+    "spd": 65,
+    "spe": 65
+   },
+   "abilities": [
+    "blaze",
+    "reckless"
+   ],
+   "weight": 150,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "emboarmega",
+   "name": "超级炎武王",
+   "name_en": "Emboar-Mega",
+   "types": [
+    "fire",
+    "fighting"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 148,
+    "def": 75,
+    "spa": 110,
+    "spd": 110,
+    "spe": 75
+   },
+   "abilities": [
+    "mold_breaker"
+   ],
+   "weight": 180.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "samurott",
+   "name": "大剑鬼",
+   "name_en": "Samurott",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 100,
+    "def": 85,
+    "spa": 108,
+    "spd": 70,
+    "spe": 70
+   },
+   "abilities": [
+    "torrent",
+    "shell_armor"
+   ],
+   "weight": 94.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "samurotthisui",
+   "name": "大剑鬼（洗翠）",
+   "name_en": "Samurott-Hisui",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 108,
+    "def": 80,
+    "spa": 100,
+    "spd": 65,
+    "spe": 85
+   },
+   "abilities": [
+    "torrent",
+    "sharpness"
+   ],
+   "weight": 58.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "watchog",
+   "name": "步哨鼠",
+   "name_en": "Watchog",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 85,
+    "def": 69,
+    "spa": 60,
+    "spd": 69,
+    "spe": 77
+   },
+   "abilities": [
+    "illuminate",
+    "keen_eye",
+    "analytic"
+   ],
+   "weight": 27,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "liepard",
+   "name": "酷豹",
+   "name_en": "Liepard",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 64,
+    "atk": 88,
+    "def": 50,
+    "spa": 88,
+    "spd": 50,
+    "spe": 106
+   },
+   "abilities": [
+    "limber",
+    "unburden",
+    "prankster"
+   ],
+   "weight": 37.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "simisage",
+   "name": "花椰猿",
+   "name_en": "Simisage",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "spa": 98,
+    "spd": 63,
+    "spe": 101
+   },
+   "abilities": [
+    "gluttony",
+    "overgrow"
+   ],
+   "weight": 30.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "simisear",
+   "name": "爆香猿",
+   "name_en": "Simisear",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "spa": 98,
+    "spd": 63,
+    "spe": 101
+   },
+   "abilities": [
+    "gluttony",
+    "blaze"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "simipour",
+   "name": "冷水猿",
+   "name_en": "Simipour",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "spa": 98,
+    "spd": 63,
+    "spe": 101
+   },
+   "abilities": [
+    "gluttony",
+    "torrent"
+   ],
+   "weight": 29,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "musharna",
+   "name": "梦梦蚀",
+   "name_en": "Musharna",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 116,
+    "atk": 55,
+    "def": 85,
+    "spa": 107,
+    "spd": 95,
+    "spe": 29
+   },
+   "abilities": [
+    "forewarn",
+    "synchronize",
+    "telepathy"
+   ],
+   "weight": 60.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "excadrill",
+   "name": "龙头地鼠",
+   "name_en": "Excadrill",
+   "types": [
+    "ground",
+    "steel"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 135,
+    "def": 60,
+    "spa": 50,
+    "spd": 65,
+    "spe": 88
+   },
+   "abilities": [
+    "sand_rush",
+    "sand_force",
+    "mold_breaker"
+   ],
+   "weight": 40.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "excadrillmega",
+   "name": "超级龙头地鼠",
+   "name_en": "Excadrill-Mega",
+   "types": [
+    "ground",
+    "steel"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 165,
+    "def": 100,
+    "spa": 65,
+    "spd": 65,
+    "spe": 103
+   },
+   "abilities": [
+    "piercing_drill"
+   ],
+   "weight": 60,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "audino",
+   "name": "差不多娃娃",
+   "name_en": "Audino",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 103,
+    "atk": 60,
+    "def": 86,
+    "spa": 60,
+    "spd": 86,
+    "spe": 50
+   },
+   "abilities": [
+    "healer",
+    "regenerator",
+    "klutz"
+   ],
+   "weight": 31,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "audinomega",
+   "name": "超级差不多娃娃",
+   "name_en": "Audino-Mega",
+   "types": [
+    "normal",
+    "fairy"
+   ],
+   "base": {
+    "hp": 103,
+    "atk": 60,
+    "def": 126,
+    "spa": 80,
+    "spd": 126,
+    "spe": 50
+   },
+   "abilities": [
+    "healer"
+   ],
+   "weight": 32,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "conkeldurr",
+   "name": "修建老匠",
+   "name_en": "Conkeldurr",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 105,
+    "atk": 140,
+    "def": 95,
+    "spa": 55,
+    "spd": 65,
+    "spe": 45
+   },
+   "abilities": [
+    "guts",
+    "sheer_force",
+    "iron_fist"
+   ],
+   "weight": 87,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scolipede",
+   "name": "蜈蚣王",
+   "name_en": "Scolipede",
+   "types": [
+    "bug",
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 100,
+    "def": 89,
+    "spa": 55,
+    "spd": 69,
+    "spe": 112
+   },
+   "abilities": [
+    "poison_point",
+    "swarm",
+    "speed_boost"
+   ],
+   "weight": 200.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scolipedemega",
+   "name": "超级蜈蚣王",
+   "name_en": "Scolipede-Mega",
+   "types": [
+    "bug",
+    "poison"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 140,
+    "def": 149,
+    "spa": 75,
+    "spd": 99,
+    "spe": 62
+   },
+   "abilities": [
+    "shell_armor"
+   ],
+   "weight": 230.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "whimsicott",
+   "name": "风妖精",
+   "name_en": "Whimsicott",
+   "types": [
+    "grass",
+    "fairy"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 67,
+    "def": 85,
+    "spa": 77,
+    "spd": 75,
+    "spe": 116
+   },
+   "abilities": [
+    "prankster",
+    "infiltrator",
+    "chlorophyll"
+   ],
+   "weight": 6.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "basculegion",
+   "name": "幽尾玄鱼（雄性）",
+   "name_en": "Basculegion",
+   "types": [
+    "water",
+    "ghost"
+   ],
+   "base": {
+    "hp": 120,
+    "atk": 112,
+    "def": 65,
+    "spa": 80,
+    "spd": 75,
+    "spe": 78
+   },
+   "abilities": [
+    "swift_swim",
+    "adaptability",
+    "mold_breaker"
+   ],
+   "weight": 110,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "basculegionf",
+   "name": "幽尾玄鱼（雌性）",
+   "name_en": "Basculegion-F",
+   "types": [
+    "water",
+    "ghost"
+   ],
+   "base": {
+    "hp": 120,
+    "atk": 92,
+    "def": 65,
+    "spa": 100,
+    "spd": 75,
+    "spe": 78
+   },
+   "abilities": [
+    "swift_swim",
+    "adaptability",
+    "mold_breaker"
+   ],
+   "weight": 110,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "krookodile",
+   "name": "流氓鳄",
+   "name_en": "Krookodile",
+   "types": [
+    "ground",
+    "dark"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 117,
+    "def": 80,
+    "spa": 65,
+    "spd": 70,
+    "spe": 92
+   },
+   "abilities": [
+    "intimidate",
+    "moxie",
+    "anger_point"
+   ],
+   "weight": 96.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scrafty",
+   "name": "头巾混混",
+   "name_en": "Scrafty",
+   "types": [
+    "dark",
+    "fighting"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 90,
+    "def": 115,
+    "spa": 45,
+    "spd": 115,
+    "spe": 58
+   },
+   "abilities": [
+    "shed_skin",
+    "moxie",
+    "intimidate"
+   ],
+   "weight": 30,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scraftymega",
+   "name": "超级头巾混混",
+   "name_en": "Scrafty-Mega",
+   "types": [
+    "dark",
+    "fighting"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 130,
+    "def": 135,
+    "spa": 55,
+    "spd": 135,
+    "spe": 68
+   },
+   "abilities": [
+    "intimidate"
+   ],
+   "weight": 31,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "cofagrigus",
+   "name": "迭失棺",
+   "name_en": "Cofagrigus",
+   "types": [
+    "ghost"
+   ],
+   "base": {
+    "hp": 58,
+    "atk": 50,
+    "def": 145,
+    "spa": 95,
+    "spd": 105,
+    "spe": 30
+   },
+   "abilities": [
+    "mummy"
+   ],
+   "weight": 76.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "runerigus",
+   "name": "迭失板",
+   "name_en": "Runerigus",
+   "types": [
+    "ground",
+    "ghost"
+   ],
+   "base": {
+    "hp": 58,
+    "atk": 95,
+    "def": 145,
+    "spa": 50,
+    "spd": 105,
+    "spe": 30
+   },
+   "abilities": [
+    "wandering_spirit"
+   ],
+   "weight": 66.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "garbodor",
+   "name": "灰尘山",
+   "name_en": "Garbodor",
+   "types": [
+    "poison"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 95,
+    "def": 82,
+    "spa": 60,
+    "spd": 82,
+    "spe": 75
+   },
+   "abilities": [
+    "stench",
+    "weak_armor",
+    "aftermath"
+   ],
+   "weight": 107.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "zoroark",
+   "name": "索罗亚克",
+   "name_en": "Zoroark",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 105,
+    "def": 60,
+    "spa": 120,
+    "spd": 60,
+    "spe": 105
+   },
+   "abilities": [
+    "illusion"
+   ],
+   "weight": 81.1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "zoroarkhisui",
+   "name": "索罗亚克（洗翠）",
+   "name_en": "Zoroark-Hisui",
+   "types": [
+    "normal",
+    "ghost"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 100,
+    "def": 60,
+    "spa": 125,
+    "spd": 60,
+    "spe": 110
+   },
+   "abilities": [
+    "illusion"
+   ],
+   "weight": 73,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "reuniclus",
+   "name": "人造细胞卵",
+   "name_en": "Reuniclus",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 65,
+    "def": 75,
+    "spa": 125,
+    "spd": 85,
+    "spe": 30
+   },
+   "abilities": [
+    "overcoat",
+    "magic_guard",
+    "regenerator"
+   ],
+   "weight": 20.1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "vanilluxe",
+   "name": "双倍多多冰",
+   "name_en": "Vanilluxe",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 71,
+    "atk": 95,
+    "def": 85,
+    "spa": 110,
+    "spd": 95,
+    "spe": 79
+   },
+   "abilities": [
+    "ice_body",
+    "snow_warning",
+    "weak_armor"
+   ],
+   "weight": 57.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "emolga",
+   "name": "电飞鼠",
+   "name_en": "Emolga",
+   "types": [
+    "electric",
+    "flying"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 75,
+    "def": 60,
+    "spa": 75,
+    "spd": 60,
+    "spe": 103
+   },
+   "abilities": [
+    "static",
+    "motor_drive"
+   ],
+   "weight": 5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "eelektross",
+   "name": "麻麻鳗鱼王",
+   "name_en": "Eelektross",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 115,
+    "def": 80,
+    "spa": 105,
+    "spd": 80,
+    "spe": 50
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 80.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "eelektrossmega",
+   "name": "超级麻麻鳗鱼王",
+   "name_en": "Eelektross-Mega",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 145,
+    "def": 80,
+    "spa": 135,
+    "spd": 90,
+    "spe": 80
+   },
+   "abilities": [
+    "eelevate"
+   ],
+   "weight": 180,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "chandelure",
+   "name": "水晶灯火灵",
+   "name_en": "Chandelure",
+   "types": [
+    "ghost",
+    "fire"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 55,
+    "def": 90,
+    "spa": 145,
+    "spd": 90,
+    "spe": 80
+   },
+   "abilities": [
+    "flash_fire",
+    "flame_body",
+    "infiltrator"
+   ],
+   "weight": 34.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "chandeluremega",
+   "name": "超级水晶灯火灵",
+   "name_en": "Chandelure-Mega",
+   "types": [
+    "ghost",
+    "fire"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 75,
+    "def": 110,
+    "spa": 175,
+    "spd": 110,
+    "spe": 90
+   },
+   "abilities": [
+    "infiltrator"
+   ],
+   "weight": 69.6,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "beartic",
+   "name": "冻原熊",
+   "name_en": "Beartic",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 130,
+    "def": 80,
+    "spa": 70,
+    "spd": 80,
+    "spe": 50
+   },
+   "abilities": [
+    "snow_cloak",
+    "slush_rush",
+    "swift_swim"
+   ],
+   "weight": 260,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "stunfisk",
+   "name": "泥巴鱼",
+   "name_en": "Stunfisk",
+   "types": [
+    "ground",
+    "electric"
+   ],
+   "base": {
+    "hp": 109,
+    "atk": 66,
+    "def": 84,
+    "spa": 81,
+    "spd": 99,
+    "spe": 32
+   },
+   "abilities": [
+    "static",
+    "limber",
+    "sand_veil"
+   ],
+   "weight": 11,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "stunfiskgalar",
+   "name": "泥巴鱼（伽勒尔）",
+   "name_en": "Stunfisk-Galar",
+   "types": [
+    "ground",
+    "steel"
+   ],
+   "base": {
+    "hp": 109,
+    "atk": 81,
+    "def": 99,
+    "spa": 66,
+    "spd": 84,
+    "spe": 32
+   },
+   "abilities": [
+    "mimicry"
+   ],
+   "weight": 20.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "golurk",
+   "name": "泥偶巨人",
+   "name_en": "Golurk",
+   "types": [
+    "ground",
+    "ghost"
+   ],
+   "base": {
+    "hp": 89,
+    "atk": 124,
+    "def": 80,
+    "spa": 55,
+    "spd": 80,
+    "spe": 55
+   },
+   "abilities": [
+    "iron_fist",
+    "klutz",
+    "no_guard"
+   ],
+   "weight": 330,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "golurkmega",
+   "name": "超级泥偶巨人",
+   "name_en": "Golurk-Mega",
+   "types": [
+    "ground",
+    "ghost"
+   ],
+   "base": {
+    "hp": 89,
+    "atk": 159,
+    "def": 105,
+    "spa": 70,
+    "spd": 105,
+    "spe": 55
+   },
+   "abilities": [
+    "unseen_fist"
+   ],
+   "weight": 330,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "hydreigon",
+   "name": "三首恶龙",
+   "name_en": "Hydreigon",
+   "types": [
+    "dark",
+    "dragon"
+   ],
+   "base": {
+    "hp": 92,
+    "atk": 105,
+    "def": 90,
+    "spa": 125,
+    "spd": 90,
+    "spe": 98
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 160,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "volcarona",
+   "name": "火神蛾",
+   "name_en": "Volcarona",
+   "types": [
+    "bug",
+    "fire"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 60,
+    "def": 65,
+    "spa": 135,
+    "spd": 105,
+    "spe": 100
+   },
+   "abilities": [
+    "flame_body",
+    "swarm"
+   ],
+   "weight": 46,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "chesnaught",
+   "name": "布里卡隆",
+   "name_en": "Chesnaught",
+   "types": [
+    "grass",
+    "fighting"
+   ],
+   "base": {
+    "hp": 88,
+    "atk": 107,
+    "def": 122,
+    "spa": 74,
+    "spd": 75,
+    "spe": 64
+   },
+   "abilities": [
+    "overgrow",
+    "bulletproof"
+   ],
+   "weight": 90,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "chesnaughtmega",
+   "name": "超级布里卡隆",
+   "name_en": "Chesnaught-Mega",
+   "types": [
+    "grass",
+    "fighting"
+   ],
+   "base": {
+    "hp": 88,
+    "atk": 137,
+    "def": 172,
+    "spa": 74,
+    "spd": 115,
+    "spe": 44
+   },
+   "abilities": [
+    "bulletproof"
+   ],
+   "weight": 90,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "delphox",
+   "name": "妖火红狐",
+   "name_en": "Delphox",
+   "types": [
+    "fire",
+    "psychic"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "spa": 114,
+    "spd": 100,
+    "spe": 104
+   },
+   "abilities": [
+    "blaze",
+    "magician"
+   ],
+   "weight": 39,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "delphoxmega",
+   "name": "超级妖火红狐",
+   "name_en": "Delphox-Mega",
+   "types": [
+    "fire",
+    "psychic"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "spa": 159,
+    "spd": 125,
+    "spe": 134
+   },
+   "abilities": [
+    "levitate"
+   ],
+   "weight": 39,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "greninja",
+   "name": "甲贺忍蛙",
+   "name_en": "Greninja",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 95,
+    "def": 67,
+    "spa": 103,
+    "spd": 71,
+    "spe": 122
+   },
+   "abilities": [
+    "torrent",
+    "protean",
+    "battle_bond"
+   ],
+   "weight": 40,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "greninjamega",
+   "name": "超级甲贺忍蛙",
+   "name_en": "Greninja-Mega",
+   "types": [
+    "water",
+    "dark"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 125,
+    "def": 77,
+    "spa": 133,
+    "spd": 81,
+    "spe": 142
+   },
+   "abilities": [
+    "protean"
+   ],
+   "weight": 40,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "diggersby",
+   "name": "掘地兔",
+   "name_en": "Diggersby",
+   "types": [
+    "normal",
+    "ground"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 56,
+    "def": 77,
+    "spa": 50,
+    "spd": 77,
+    "spe": 78
+   },
+   "abilities": [
+    "pickup",
+    "cheek_pouch",
+    "huge_power"
+   ],
+   "weight": 42.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "talonflame",
+   "name": "烈箭鹰",
+   "name_en": "Talonflame",
+   "types": [
+    "fire",
+    "flying"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 81,
+    "def": 71,
+    "spa": 74,
+    "spd": 69,
+    "spe": 126
+   },
+   "abilities": [
+    "flame_body",
+    "gale_wings"
+   ],
+   "weight": 24.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "vivillon",
+   "name": "彩粉蝶（花园花纹）",
+   "name_en": "Vivillon",
+   "types": [
+    "bug",
+    "flying"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "spa": 90,
+    "spd": 50,
+    "spe": 89
+   },
+   "abilities": [
+    "shield_dust",
+    "compound_eyes",
+    "friend_guard"
+   ],
+   "weight": 17,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pyroar",
+   "name": "火炎狮（雄性）",
+   "name_en": "Pyroar",
+   "types": [
+    "fire",
+    "normal"
+   ],
+   "base": {
+    "hp": 86,
+    "atk": 68,
+    "def": 72,
+    "spa": 109,
+    "spd": 66,
+    "spe": 106
+   },
+   "abilities": [
+    "rivalry",
+    "unnerve",
+    "moxie"
+   ],
+   "weight": 81.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pyroarmega",
+   "name": "超级火炎狮",
+   "name_en": "Pyroar-Mega",
+   "types": [
+    "fire",
+    "normal"
+   ],
+   "base": {
+    "hp": 86,
+    "atk": 88,
+    "def": 92,
+    "spa": 129,
+    "spd": 86,
+    "spe": 126
+   },
+   "abilities": [
+    "fire_mane"
+   ],
+   "weight": 93.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "floetteeternal",
+   "name": "花叶蒂（永恒之花）",
+   "name_en": "Floette-Eternal",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 65,
+    "def": 67,
+    "spa": 125,
+    "spd": 128,
+    "spe": 92
+   },
+   "abilities": [
+    "flower_veil",
+    "symbiosis"
+   ],
+   "weight": 0.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "floettemega",
+   "name": "超级花叶蒂",
+   "name_en": "Floette-Mega",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 85,
+    "def": 87,
+    "spa": 155,
+    "spd": 148,
+    "spe": 102
+   },
+   "abilities": [
+    "fairy_aura"
+   ],
+   "weight": 100.8,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "florges",
+   "name": "花洁夫人（红花）",
+   "name_en": "Florges",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 65,
+    "def": 68,
+    "spa": 112,
+    "spd": 154,
+    "spe": 75
+   },
+   "abilities": [
+    "flower_veil",
+    "symbiosis"
+   ],
+   "weight": 10,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gogoat",
+   "name": "坐骑山羊",
+   "name_en": "Gogoat",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 123,
+    "atk": 100,
+    "def": 62,
+    "spa": 97,
+    "spd": 81,
+    "spe": 68
+   },
+   "abilities": [
+    "sap_sipper",
+    "grass_pelt"
+   ],
+   "weight": 91,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "pangoro",
+   "name": "霸道熊猫",
+   "name_en": "Pangoro",
+   "types": [
+    "fighting",
+    "dark"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 124,
+    "def": 78,
+    "spa": 69,
+    "spd": 71,
+    "spe": 58
+   },
+   "abilities": [
+    "iron_fist",
+    "mold_breaker",
+    "scrappy"
+   ],
+   "weight": 136,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "furfrou",
+   "name": "多丽米亚（野生）",
+   "name_en": "Furfrou",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "spa": 65,
+    "spd": 90,
+    "spe": 102
+   },
+   "abilities": [
+    "fur_coat"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "meowstic",
+   "name": "超能妙喵（雄性）",
+   "name_en": "Meowstic",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spa": 83,
+    "spd": 81,
+    "spe": 104
+   },
+   "abilities": [
+    "keen_eye",
+    "infiltrator",
+    "prankster"
+   ],
+   "weight": 8.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "meowsticmmega",
+   "name": "超级超能妙喵（雄性）",
+   "name_en": "Meowstic-M-Mega",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spa": 143,
+    "spd": 101,
+    "spe": 124
+   },
+   "abilities": [
+    "trace"
+   ],
+   "weight": 10.1,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "meowsticfmega",
+   "name": "超级超能妙喵（雌性）",
+   "name_en": "Meowstic-F-Mega",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spa": 143,
+    "spd": 101,
+    "spe": 124
+   },
+   "abilities": [
+    "trace"
+   ],
+   "weight": 10.1,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "aegislash",
+   "name": "坚盾剑怪（盾牌形态）",
+   "name_en": "Aegislash",
+   "types": [
+    "steel",
+    "ghost"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 50,
+    "def": 140,
+    "spa": 50,
+    "spd": 140,
+    "spe": 60
+   },
+   "abilities": [
+    "stance_change"
+   ],
+   "weight": 53,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aegislashblade",
+   "name": "坚盾剑怪（刀剑形态）",
+   "name_en": "Aegislash-Blade",
+   "types": [
+    "steel",
+    "ghost"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 140,
+    "def": 50,
+    "spa": 140,
+    "spd": 50,
+    "spe": 60
+   },
+   "abilities": [
+    "stance_change"
+   ],
+   "weight": 53,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aromatisse",
+   "name": "芳香精",
+   "name_en": "Aromatisse",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 101,
+    "atk": 72,
+    "def": 72,
+    "spa": 99,
+    "spd": 89,
+    "spe": 29
+   },
+   "abilities": [
+    "healer",
+    "aroma_veil"
+   ],
+   "weight": 15.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "slurpuff",
+   "name": "胖甜妮",
+   "name_en": "Slurpuff",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 80,
+    "def": 86,
+    "spa": 85,
+    "spd": 75,
+    "spe": 72
+   },
+   "abilities": [
+    "sweet_veil",
+    "unburden"
+   ],
+   "weight": 5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "malamar",
+   "name": "乌贼王",
+   "name_en": "Malamar",
+   "types": [
+    "dark",
+    "psychic"
+   ],
+   "base": {
+    "hp": 86,
+    "atk": 92,
+    "def": 88,
+    "spa": 68,
+    "spd": 75,
+    "spe": 73
+   },
+   "abilities": [
+    "contrary",
+    "suction_cups",
+    "infiltrator"
+   ],
+   "weight": 47,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "malamarmega",
+   "name": "超级乌贼王",
+   "name_en": "Malamar-Mega",
+   "types": [
+    "dark",
+    "psychic"
+   ],
+   "base": {
+    "hp": 86,
+    "atk": 102,
+    "def": 88,
+    "spa": 98,
+    "spd": 120,
+    "spe": 88
+   },
+   "abilities": [
+    "contrary"
+   ],
+   "weight": 69.8,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "barbaracle",
+   "name": "龟足巨铠",
+   "name_en": "Barbaracle",
+   "types": [
+    "rock",
+    "water"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 105,
+    "def": 115,
+    "spa": 54,
+    "spd": 86,
+    "spe": 68
+   },
+   "abilities": [
+    "tough_claws",
+    "sniper",
+    "pickpocket"
+   ],
+   "weight": 96,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "barbaraclemega",
+   "name": "超级龟足巨铠",
+   "name_en": "Barbaracle-Mega",
+   "types": [
+    "rock",
+    "fighting"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 140,
+    "def": 130,
+    "spa": 64,
+    "spd": 106,
+    "spe": 88
+   },
+   "abilities": [
+    "tough_claws"
+   ],
+   "weight": 100,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "dragalge",
+   "name": "毒藻龙",
+   "name_en": "Dragalge",
+   "types": [
+    "poison",
+    "dragon"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 75,
+    "def": 90,
+    "spa": 97,
+    "spd": 123,
+    "spe": 44
+   },
+   "abilities": [
+    "poison_point",
+    "poison_touch",
+    "adaptability"
+   ],
+   "weight": 81.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "dragalgemega",
+   "name": "超级毒藻龙",
+   "name_en": "Dragalge-Mega",
+   "types": [
+    "poison",
+    "dragon"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 85,
+    "def": 105,
+    "spa": 132,
+    "spd": 163,
+    "spe": 44
+   },
+   "abilities": [
+    "regenerator"
+   ],
+   "weight": 100.3,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "clawitzer",
+   "name": "钢炮臂虾",
+   "name_en": "Clawitzer",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 71,
+    "atk": 73,
+    "def": 88,
+    "spa": 120,
+    "spd": 89,
+    "spe": 59
+   },
+   "abilities": [
+    "mega_launcher"
+   ],
+   "weight": 35.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "heliolisk",
+   "name": "光电伞蜥",
+   "name_en": "Heliolisk",
+   "types": [
+    "electric",
+    "normal"
+   ],
+   "base": {
+    "hp": 62,
+    "atk": 55,
+    "def": 52,
+    "spa": 109,
+    "spd": 94,
+    "spe": 109
+   },
+   "abilities": [
+    "dry_skin",
+    "sand_veil",
+    "solar_power"
+   ],
+   "weight": 21,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "tyrantrum",
+   "name": "怪颚龙",
+   "name_en": "Tyrantrum",
+   "types": [
+    "rock",
+    "dragon"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "spa": 69,
+    "spd": 59,
+    "spe": 71
+   },
+   "abilities": [
+    "strong_jaw",
+    "rock_head"
+   ],
+   "weight": 270,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "aurorus",
+   "name": "冰雪巨龙",
+   "name_en": "Aurorus",
+   "types": [
+    "rock",
+    "ice"
+   ],
+   "base": {
+    "hp": 123,
+    "atk": 77,
+    "def": 72,
+    "spa": 99,
+    "spd": 92,
+    "spe": 58
+   },
+   "abilities": [
+    "refrigerate",
+    "snow_warning"
+   ],
+   "weight": 225,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "hawlucha",
+   "name": "摔角鹰人",
+   "name_en": "Hawlucha",
+   "types": [
+    "fighting",
+    "flying"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 92,
+    "def": 75,
+    "spa": 74,
+    "spd": 63,
+    "spe": 118
+   },
+   "abilities": [
+    "limber",
+    "unburden",
+    "mold_breaker"
+   ],
+   "weight": 21.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "hawluchamega",
+   "name": "超级摔角鹰人",
+   "name_en": "Hawlucha-Mega",
+   "types": [
+    "fighting",
+    "flying"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 137,
+    "def": 100,
+    "spa": 74,
+    "spd": 93,
+    "spe": 118
+   },
+   "abilities": [
+    "no_guard"
+   ],
+   "weight": 25,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "dedenne",
+   "name": "咚咚鼠",
+   "name_en": "Dedenne",
+   "types": [
+    "electric",
+    "fairy"
+   ],
+   "base": {
+    "hp": 67,
+    "atk": 58,
+    "def": 57,
+    "spa": 81,
+    "spd": 67,
+    "spe": 101
+   },
+   "abilities": [
+    "cheek_pouch",
+    "pickup",
+    "plus"
+   ],
+   "weight": 2.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "goodra",
+   "name": "黏美龙",
+   "name_en": "Goodra",
+   "types": [
+    "dragon"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 100,
+    "def": 70,
+    "spa": 110,
+    "spd": 150,
+    "spe": 80
+   },
+   "abilities": [
+    "sap_sipper",
+    "hydration",
+    "gooey"
+   ],
+   "weight": 150.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "goodrahisui",
+   "name": "黏美龙（洗翠）",
+   "name_en": "Goodra-Hisui",
+   "types": [
+    "steel",
+    "dragon"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 100,
+    "def": 100,
+    "spa": 110,
+    "spd": 150,
+    "spe": 60
+   },
+   "abilities": [
+    "sap_sipper",
+    "shell_armor",
+    "gooey"
+   ],
+   "weight": 334.1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "klefki",
+   "name": "钥圈儿",
+   "name_en": "Klefki",
+   "types": [
+    "steel",
+    "fairy"
+   ],
+   "base": {
+    "hp": 57,
+    "atk": 80,
+    "def": 91,
+    "spa": 80,
+    "spd": 87,
+    "spe": 75
+   },
+   "abilities": [
+    "prankster",
+    "magician"
+   ],
+   "weight": 3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "trevenant",
+   "name": "朽木妖",
+   "name_en": "Trevenant",
+   "types": [
+    "ghost",
+    "grass"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 110,
+    "def": 76,
+    "spa": 65,
+    "spd": 82,
+    "spe": 56
+   },
+   "abilities": [
+    "natural_cure",
+    "frisk",
+    "harvest"
+   ],
+   "weight": 71,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gourgeist",
+   "name": "南瓜怪人（普通尺寸）",
+   "name_en": "Gourgeist",
+   "types": [
+    "ghost",
+    "grass"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 90,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 84
+   },
+   "abilities": [
+    "pickup",
+    "frisk",
+    "insomnia"
+   ],
+   "weight": 12.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gourgeistsmall",
+   "name": "南瓜怪人（小尺寸）",
+   "name_en": "Gourgeist-Small",
+   "types": [
+    "ghost",
+    "grass"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 85,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 99
+   },
+   "abilities": [
+    "pickup",
+    "frisk",
+    "insomnia"
+   ],
+   "weight": 9.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gourgeistlarge",
+   "name": "南瓜怪人（大尺寸）",
+   "name_en": "Gourgeist-Large",
+   "types": [
+    "ghost",
+    "grass"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 95,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 69
+   },
+   "abilities": [
+    "pickup",
+    "frisk",
+    "insomnia"
+   ],
+   "weight": 14,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gourgeistsuper",
+   "name": "南瓜怪人（特大尺寸）",
+   "name_en": "Gourgeist-Super",
+   "types": [
+    "ghost",
+    "grass"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 100,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 54
+   },
+   "abilities": [
+    "pickup",
+    "frisk",
+    "insomnia"
+   ],
+   "weight": 39,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "avalugg",
+   "name": "冰岩怪",
+   "name_en": "Avalugg",
+   "types": [
+    "ice"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 117,
+    "def": 184,
+    "spa": 44,
+    "spd": 46,
+    "spe": 28
+   },
+   "abilities": [
+    "own_tempo",
+    "ice_body",
+    "sturdy"
+   ],
+   "weight": 505,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "avalugghisui",
+   "name": "冰岩怪（洗翠）",
+   "name_en": "Avalugg-Hisui",
+   "types": [
+    "ice",
+    "rock"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 127,
+    "def": 184,
+    "spa": 34,
+    "spd": 36,
+    "spe": 38
+   },
+   "abilities": [
+    "strong_jaw",
+    "ice_body",
+    "sturdy"
+   ],
+   "weight": 262.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "noivern",
+   "name": "音波龙",
+   "name_en": "Noivern",
+   "types": [
+    "flying",
+    "dragon"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 70,
+    "def": 80,
+    "spa": 97,
+    "spd": 80,
+    "spe": 123
+   },
+   "abilities": [
+    "frisk",
+    "infiltrator",
+    "telepathy"
+   ],
+   "weight": 85,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "decidueye",
+   "name": "狙射树枭",
+   "name_en": "Decidueye",
+   "types": [
+    "grass",
+    "ghost"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 107,
+    "def": 75,
+    "spa": 100,
+    "spd": 100,
+    "spe": 70
+   },
+   "abilities": [
+    "overgrow",
+    "long_reach"
+   ],
+   "weight": 36.6,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "decidueyehisui",
+   "name": "狙射树枭（洗翠）",
+   "name_en": "Decidueye-Hisui",
+   "types": [
+    "grass",
+    "fighting"
+   ],
+   "base": {
+    "hp": 88,
+    "atk": 112,
+    "def": 80,
+    "spa": 95,
+    "spd": 95,
+    "spe": 60
+   },
+   "abilities": [
+    "overgrow",
+    "scrappy"
+   ],
+   "weight": 37,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "incineroar",
+   "name": "炽焰咆哮虎",
+   "name_en": "Incineroar",
+   "types": [
+    "fire",
+    "dark"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 115,
+    "def": 90,
+    "spa": 80,
+    "spd": 90,
+    "spe": 60
+   },
+   "abilities": [
+    "blaze",
+    "intimidate"
+   ],
+   "weight": 83,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "primarina",
+   "name": "西狮海壬",
+   "name_en": "Primarina",
+   "types": [
+    "water",
+    "fairy"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 74,
+    "def": 74,
+    "spa": 126,
+    "spd": 116,
+    "spe": 60
+   },
+   "abilities": [
+    "torrent",
+    "liquid_voice"
+   ],
+   "weight": 44,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "toucannon",
+   "name": "铳嘴大鸟",
+   "name_en": "Toucannon",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 120,
+    "def": 75,
+    "spa": 75,
+    "spd": 75,
+    "spe": 60
+   },
+   "abilities": [
+    "keen_eye",
+    "skill_link",
+    "sheer_force"
+   ],
+   "weight": 26,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "crabominable",
+   "name": "好胜毛蟹",
+   "name_en": "Crabominable",
+   "types": [
+    "fighting",
+    "ice"
+   ],
+   "base": {
+    "hp": 97,
+    "atk": 132,
+    "def": 77,
+    "spa": 62,
+    "spd": 67,
+    "spe": 43
+   },
+   "abilities": [
+    "hyper_cutter",
+    "iron_fist",
+    "anger_point"
+   ],
+   "weight": 180,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "crabominablemega",
+   "name": "超级好胜毛蟹",
+   "name_en": "Crabominable-Mega",
+   "types": [
+    "fighting",
+    "ice"
+   ],
+   "base": {
+    "hp": 97,
+    "atk": 157,
+    "def": 122,
+    "spa": 62,
+    "spd": 107,
+    "spe": 33
+   },
+   "abilities": [
+    "iron_fist"
+   ],
+   "weight": 252.8,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "lycanroc",
+   "name": "鬃岩狼人（白昼）",
+   "name_en": "Lycanroc",
+   "types": [
+    "rock"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 115,
+    "def": 65,
+    "spa": 55,
+    "spd": 65,
+    "spe": 112
+   },
+   "abilities": [
+    "keen_eye",
+    "sand_rush",
+    "steadfast"
+   ],
+   "weight": 25,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "lycanrocmidnight",
+   "name": "鬃岩狼人（黑夜）",
+   "name_en": "Lycanroc-Midnight",
+   "types": [
+    "rock"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 115,
+    "def": 75,
+    "spa": 55,
+    "spd": 75,
+    "spe": 82
+   },
+   "abilities": [
+    "keen_eye",
+    "vital_spirit",
+    "no_guard"
+   ],
+   "weight": 25,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "lycanrocdusk",
+   "name": "鬃岩狼人（黄昏）",
+   "name_en": "Lycanroc-Dusk",
+   "types": [
+    "rock"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 117,
+    "def": 65,
+    "spa": 55,
+    "spd": 65,
+    "spe": 110
+   },
+   "abilities": [
+    "tough_claws"
+   ],
+   "weight": 25,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "toxapex",
+   "name": "超坏星",
+   "name_en": "Toxapex",
+   "types": [
+    "poison",
+    "water"
+   ],
+   "base": {
+    "hp": 50,
+    "atk": 63,
+    "def": 152,
+    "spa": 53,
+    "spd": 142,
+    "spe": 35
+   },
+   "abilities": [
+    "merciless",
+    "limber",
+    "regenerator"
+   ],
+   "weight": 14.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "mudsdale",
+   "name": "重泥挽马",
+   "name_en": "Mudsdale",
+   "types": [
+    "ground"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 125,
+    "def": 100,
+    "spa": 55,
+    "spd": 85,
+    "spe": 35
+   },
+   "abilities": [
+    "own_tempo",
+    "stamina",
+    "inner_focus"
+   ],
+   "weight": 920,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "araquanid",
+   "name": "滴蛛霸",
+   "name_en": "Araquanid",
+   "types": [
+    "water",
+    "bug"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 70,
+    "def": 92,
+    "spa": 50,
+    "spd": 132,
+    "spe": 42
+   },
+   "abilities": [
+    "water_bubble",
+    "water_absorb"
+   ],
+   "weight": 82,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "salazzle",
+   "name": "焰后蜥",
+   "name_en": "Salazzle",
+   "types": [
+    "poison",
+    "fire"
+   ],
+   "base": {
+    "hp": 68,
+    "atk": 64,
+    "def": 60,
+    "spa": 111,
+    "spd": 60,
+    "spe": 117
+   },
+   "abilities": [
+    "corrosion",
+    "oblivious"
+   ],
+   "weight": 22.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "tsareena",
+   "name": "甜冷美后",
+   "name_en": "Tsareena",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 120,
+    "def": 98,
+    "spa": 50,
+    "spd": 98,
+    "spe": 72
+   },
+   "abilities": [
+    "leaf_guard",
+    "queenly_majesty",
+    "sweet_veil"
+   ],
+   "weight": 21.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "oranguru",
+   "name": "智挥猩",
+   "name_en": "Oranguru",
+   "types": [
+    "normal",
+    "psychic"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 60,
+    "def": 80,
+    "spa": 90,
+    "spd": 110,
+    "spe": 60
+   },
+   "abilities": [
+    "inner_focus",
+    "telepathy",
+    "symbiosis"
+   ],
+   "weight": 76,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "passimian",
+   "name": "投掷猴",
+   "name_en": "Passimian",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 120,
+    "def": 90,
+    "spa": 40,
+    "spd": 60,
+    "spe": 80
+   },
+   "abilities": [
+    "receiver",
+    "defiant"
+   ],
+   "weight": 82.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "golisopod",
+   "name": "具甲武者",
+   "name_en": "Golisopod",
+   "types": [
+    "bug",
+    "water"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 125,
+    "def": 140,
+    "spa": 60,
+    "spd": 90,
+    "spe": 40
+   },
+   "abilities": [
+    "emergency_exit"
+   ],
+   "weight": 108,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "golisopodmega",
+   "name": "超级具甲武者",
+   "name_en": "Golisopod-Mega",
+   "types": [
+    "bug",
+    "steel"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 150,
+    "def": 175,
+    "spa": 70,
+    "spd": 120,
+    "spe": 40
+   },
+   "abilities": [
+    "emergency_exit"
+   ],
+   "weight": 148,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "mimikyu",
+   "name": "谜拟丘",
+   "name_en": "Mimikyu",
+   "types": [
+    "ghost",
+    "fairy"
+   ],
+   "base": {
+    "hp": 55,
+    "atk": 90,
+    "def": 80,
+    "spa": 50,
+    "spd": 105,
+    "spe": 96
+   },
+   "abilities": [
+    "disguise"
+   ],
+   "weight": 0.7,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "drampa",
+   "name": "老翁龙",
+   "name_en": "Drampa",
+   "types": [
+    "normal",
+    "dragon"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 60,
+    "def": 85,
+    "spa": 135,
+    "spd": 91,
+    "spe": 36
+   },
+   "abilities": [
+    "berserk",
+    "sap_sipper",
+    "cloud_nine"
+   ],
+   "weight": 185,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "drampamega",
+   "name": "超级老翁龙",
+   "name_en": "Drampa-Mega",
+   "types": [
+    "normal",
+    "dragon"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 85,
+    "def": 110,
+    "spa": 160,
+    "spd": 116,
+    "spe": 36
+   },
+   "abilities": [
+    "berserk"
+   ],
+   "weight": 240.5,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "kommoo",
+   "name": "杖尾鳞甲龙",
+   "name_en": "Kommo-o",
+   "types": [
+    "dragon",
+    "fighting"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 110,
+    "def": 125,
+    "spa": 100,
+    "spd": 105,
+    "spe": 85
+   },
+   "abilities": [
+    "bulletproof",
+    "soundproof",
+    "overcoat"
+   ],
+   "weight": 78.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "magearnamega",
+   "name": "超级玛机雅娜",
+   "name_en": "Magearna-Mega",
+   "types": [
+    "steel",
+    "fairy"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 125,
+    "def": 115,
+    "spa": 170,
+    "spd": 115,
+    "spe": 95
+   },
+   "abilities": [
+    "soul_heart"
+   ],
+   "weight": 248.1,
+   "nfe": false,
+   "tags": [
+    "Mythical",
+    "mega"
+   ]
+  },
+  {
+   "id": "magearnaoriginalmega",
+   "name": "超级玛机雅娜（原始形态）",
+   "name_en": "Magearna-Original-Mega",
+   "types": [
+    "steel",
+    "fairy"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 125,
+    "def": 115,
+    "spa": 170,
+    "spd": 115,
+    "spe": 95
+   },
+   "abilities": [
+    "soul_heart"
+   ],
+   "weight": 248.1,
+   "nfe": false,
+   "tags": [
+    "Mythical",
+    "mega"
+   ]
+  },
+  {
+   "id": "rillaboom",
+   "name": "轰擂金刚猩",
+   "name_en": "Rillaboom",
+   "types": [
+    "grass"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 125,
+    "def": 90,
+    "spa": 60,
+    "spd": 70,
+    "spe": 85
+   },
+   "abilities": [
+    "overgrow",
+    "grassy_surge"
+   ],
+   "weight": 90,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "cinderace",
+   "name": "闪焰王牌",
+   "name_en": "Cinderace",
+   "types": [
+    "fire"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 116,
+    "def": 75,
+    "spa": 65,
+    "spd": 75,
+    "spe": 119
+   },
+   "abilities": [
+    "blaze",
+    "libero"
+   ],
+   "weight": 33,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "inteleon",
+   "name": "千面避役",
+   "name_en": "Inteleon",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "spa": 125,
+    "spd": 65,
+    "spe": 120
+   },
+   "abilities": [
+    "torrent",
+    "sniper"
+   ],
+   "weight": 45.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "corviknight",
+   "name": "钢铠鸦",
+   "name_en": "Corviknight",
+   "types": [
+    "flying",
+    "steel"
+   ],
+   "base": {
+    "hp": 98,
+    "atk": 87,
+    "def": 105,
+    "spa": 53,
+    "spd": 85,
+    "spe": 67
+   },
+   "abilities": [
+    "pressure",
+    "unnerve",
+    "mirror_armor"
+   ],
+   "weight": 75,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "thievul",
+   "name": "猾大狐",
+   "name_en": "Thievul",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 58,
+    "def": 58,
+    "spa": 87,
+    "spd": 92,
+    "spe": 90
+   },
+   "abilities": [
+    "run_away",
+    "unburden",
+    "stakeout"
+   ],
+   "weight": 19.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "flapple",
+   "name": "苹裹龙",
+   "name_en": "Flapple",
+   "types": [
+    "grass",
+    "dragon"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 95,
+    "spd": 60,
+    "spe": 70
+   },
+   "abilities": [
+    "ripen",
+    "gluttony",
+    "hustle"
+   ],
+   "weight": 1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "appletun",
+   "name": "丰蜜龙",
+   "name_en": "Appletun",
+   "types": [
+    "grass",
+    "dragon"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 85,
+    "def": 80,
+    "spa": 100,
+    "spd": 80,
+    "spe": 30
+   },
+   "abilities": [
+    "ripen",
+    "gluttony",
+    "thick_fat"
+   ],
+   "weight": 13,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sandaconda",
+   "name": "沙螺蟒",
+   "name_en": "Sandaconda",
+   "types": [
+    "ground"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 107,
+    "def": 125,
+    "spa": 65,
+    "spd": 70,
+    "spe": 71
+   },
+   "abilities": [
+    "sand_spit",
+    "shed_skin",
+    "sand_veil"
+   ],
+   "weight": 65.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "toxtricity",
+   "name": "颤弦蝾螈（高调）",
+   "name_en": "Toxtricity",
+   "types": [
+    "electric",
+    "poison"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 98,
+    "def": 70,
+    "spa": 114,
+    "spd": 70,
+    "spe": 75
+   },
+   "abilities": [
+    "punk_rock",
+    "plus",
+    "technician"
+   ],
+   "weight": 40,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "toxtricitylowkey",
+   "name": "颤弦蝾螈（低调）",
+   "name_en": "Toxtricity-Low-Key",
+   "types": [
+    "electric",
+    "poison"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 98,
+    "def": 70,
+    "spa": 114,
+    "spd": 70,
+    "spe": 75
+   },
+   "abilities": [
+    "punk_rock",
+    "minus",
+    "technician"
+   ],
+   "weight": 40,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "grapploct",
+   "name": "八爪武师",
+   "name_en": "Grapploct",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 118,
+    "def": 90,
+    "spa": 70,
+    "spd": 80,
+    "spe": 42
+   },
+   "abilities": [
+    "limber",
+    "technician"
+   ],
+   "weight": 39,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "polteageist",
+   "name": "怖思壶（赝品形态）",
+   "name_en": "Polteageist",
+   "types": [
+    "ghost"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 65,
+    "def": 65,
+    "spa": 134,
+    "spd": 114,
+    "spe": 70
+   },
+   "abilities": [
+    "weak_armor",
+    "cursed_body"
+   ],
+   "weight": 0.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "hatterene",
+   "name": "布莉姆温",
+   "name_en": "Hatterene",
+   "types": [
+    "psychic",
+    "fairy"
+   ],
+   "base": {
+    "hp": 57,
+    "atk": 90,
+    "def": 95,
+    "spa": 136,
+    "spd": 103,
+    "spe": 29
+   },
+   "abilities": [
+    "healer",
+    "anticipation",
+    "magic_bounce"
+   ],
+   "weight": 5.1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "grimmsnarl",
+   "name": "长毛巨魔",
+   "name_en": "Grimmsnarl",
+   "types": [
+    "dark",
+    "fairy"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 120,
+    "def": 65,
+    "spa": 95,
+    "spd": 75,
+    "spe": 60
+   },
+   "abilities": [
+    "prankster",
+    "frisk",
+    "pickpocket"
+   ],
+   "weight": 61,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "alcremie",
+   "name": "霜奶仙（奶香香草）",
+   "name_en": "Alcremie",
+   "types": [
+    "fairy"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 60,
+    "def": 75,
+    "spa": 110,
+    "spd": 121,
+    "spe": 64
+   },
+   "abilities": [
+    "sweet_veil",
+    "aroma_veil"
+   ],
+   "weight": 0.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "falinks",
+   "name": "列阵兵",
+   "name_en": "Falinks",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 100,
+    "def": 100,
+    "spa": 70,
+    "spd": 60,
+    "spe": 75
+   },
+   "abilities": [
+    "battle_armor",
+    "defiant"
+   ],
+   "weight": 62,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "falinksmega",
+   "name": "超级列阵兵",
+   "name_en": "Falinks-Mega",
+   "types": [
+    "fighting"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 135,
+    "def": 135,
+    "spa": 70,
+    "spd": 65,
+    "spe": 100
+   },
+   "abilities": [
+    "defiant"
+   ],
+   "weight": 99,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "pincurchin",
+   "name": "啪嚓海胆",
+   "name_en": "Pincurchin",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 48,
+    "atk": 101,
+    "def": 95,
+    "spa": 91,
+    "spd": 85,
+    "spe": 15
+   },
+   "abilities": [
+    "lightning_rod",
+    "electric_surge"
+   ],
+   "weight": 1,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "indeedee",
+   "name": "爱管侍（雄性）",
+   "name_en": "Indeedee",
+   "types": [
+    "psychic",
+    "normal"
+   ],
+   "base": {
+    "hp": 60,
+    "atk": 65,
+    "def": 55,
+    "spa": 105,
+    "spd": 95,
+    "spe": 95
+   },
+   "abilities": [
+    "inner_focus",
+    "synchronize",
+    "psychic_surge"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "indeedeef",
+   "name": "爱管侍（雌性）",
+   "name_en": "Indeedee-F",
+   "types": [
+    "psychic",
+    "normal"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 55,
+    "def": 65,
+    "spa": 95,
+    "spd": 105,
+    "spe": 85
+   },
+   "abilities": [
+    "own_tempo",
+    "synchronize",
+    "psychic_surge"
+   ],
+   "weight": 28,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "morpeko",
+   "name": "莫鲁贝可（满腹花纹）",
+   "name_en": "Morpeko",
+   "types": [
+    "electric",
+    "dark"
+   ],
+   "base": {
+    "hp": 58,
+    "atk": 95,
+    "def": 58,
+    "spa": 70,
+    "spd": 58,
+    "spe": 97
+   },
+   "abilities": [
+    "hunger_switch"
+   ],
+   "weight": 3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "dragapult",
+   "name": "多龙巴鲁托",
+   "name_en": "Dragapult",
+   "types": [
+    "dragon",
+    "ghost"
+   ],
+   "base": {
+    "hp": 88,
+    "atk": 120,
+    "def": 75,
+    "spa": 100,
+    "spd": 75,
+    "spe": 142
+   },
+   "abilities": [
+    "clear_body",
+    "infiltrator",
+    "cursed_body"
+   ],
+   "weight": 50,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "meowscarada",
+   "name": "魔幻假面喵",
+   "name_en": "Meowscarada",
+   "types": [
+    "grass",
+    "dark"
+   ],
+   "base": {
+    "hp": 76,
+    "atk": 110,
+    "def": 70,
+    "spa": 81,
+    "spd": 70,
+    "spe": 123
+   },
+   "abilities": [
+    "overgrow",
+    "protean"
+   ],
+   "weight": 31.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "skeledirge",
+   "name": "骨纹巨声鳄",
+   "name_en": "Skeledirge",
+   "types": [
+    "fire",
+    "ghost"
+   ],
+   "base": {
+    "hp": 104,
+    "atk": 75,
+    "def": 100,
+    "spa": 110,
+    "spd": 75,
+    "spe": 66
+   },
+   "abilities": [
+    "blaze",
+    "unaware"
+   ],
+   "weight": 326.5,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "quaquaval",
+   "name": "狂欢浪舞鸭",
+   "name_en": "Quaquaval",
+   "types": [
+    "water",
+    "fighting"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 120,
+    "def": 80,
+    "spa": 85,
+    "spd": 75,
+    "spe": 85
+   },
+   "abilities": [
+    "torrent",
+    "moxie"
+   ],
+   "weight": 61.9,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "houndstone",
+   "name": "墓扬犬",
+   "name_en": "Houndstone",
+   "types": [
+    "ghost"
+   ],
+   "base": {
+    "hp": 72,
+    "atk": 101,
+    "def": 100,
+    "spa": 50,
+    "spd": 97,
+    "spe": 68
+   },
+   "abilities": [
+    "sand_rush",
+    "fluffy"
+   ],
+   "weight": 15,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "espathra",
+   "name": "超能艳鸵",
+   "name_en": "Espathra",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 95,
+    "atk": 60,
+    "def": 60,
+    "spa": 101,
+    "spd": 60,
+    "spe": 105
+   },
+   "abilities": [
+    "opportunist",
+    "frisk",
+    "speed_boost"
+   ],
+   "weight": 90,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "palafin",
+   "name": "海豚侠（平凡形态）",
+   "name_en": "Palafin",
+   "types": [
+    "water"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 70,
+    "def": 72,
+    "spa": 53,
+    "spd": 62,
+    "spe": 100
+   },
+   "abilities": [
+    "zero_to_hero"
+   ],
+   "weight": 60.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "arboliva",
+   "name": "奥利瓦",
+   "name_en": "Arboliva",
+   "types": [
+    "grass",
+    "normal"
+   ],
+   "base": {
+    "hp": 78,
+    "atk": 69,
+    "def": 90,
+    "spa": 125,
+    "spd": 109,
+    "spe": 39
+   },
+   "abilities": [
+    "seed_sower",
+    "harvest"
+   ],
+   "weight": 48.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scovillain",
+   "name": "狠辣椒",
+   "name_en": "Scovillain",
+   "types": [
+    "grass",
+    "fire"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 108,
+    "def": 65,
+    "spa": 108,
+    "spd": 65,
+    "spe": 75
+   },
+   "abilities": [
+    "chlorophyll",
+    "insomnia",
+    "moody"
+   ],
+   "weight": 15,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "scovillainmega",
+   "name": "超级狠辣椒",
+   "name_en": "Scovillain-Mega",
+   "types": [
+    "grass",
+    "fire"
+   ],
+   "base": {
+    "hp": 65,
+    "atk": 138,
+    "def": 85,
+    "spa": 138,
+    "spd": 85,
+    "spe": 75
+   },
+   "abilities": [
+    "spicy_spray"
+   ],
+   "weight": 22,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "bellibolt",
+   "name": "电肚蛙",
+   "name_en": "Bellibolt",
+   "types": [
+    "electric"
+   ],
+   "base": {
+    "hp": 109,
+    "atk": 64,
+    "def": 91,
+    "spa": 103,
+    "spd": 83,
+    "spe": 45
+   },
+   "abilities": [
+    "electromorphosis",
+    "static",
+    "damp"
+   ],
+   "weight": 113,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "orthworm",
+   "name": "拖拖蚓",
+   "name_en": "Orthworm",
+   "types": [
+    "steel"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 85,
+    "def": 145,
+    "spa": 60,
+    "spd": 55,
+    "spe": 65
+   },
+   "abilities": [
+    "earth_eater",
+    "sand_veil"
+   ],
+   "weight": 310,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "maushold",
+   "name": "一家鼠（四只家庭）",
+   "name_en": "Maushold",
+   "types": [
+    "normal"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 75,
+    "def": 70,
+    "spa": 65,
+    "spd": 75,
+    "spe": 111
+   },
+   "abilities": [
+    "friend_guard",
+    "cheek_pouch",
+    "technician"
+   ],
+   "weight": 2.3,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "baxcalibur",
+   "name": "戟脊龙",
+   "name_en": "Baxcalibur",
+   "types": [
+    "dragon",
+    "ice"
+   ],
+   "base": {
+    "hp": 115,
+    "atk": 145,
+    "def": 92,
+    "spa": 75,
+    "spd": 86,
+    "spe": 87
+   },
+   "abilities": [
+    "thermal_exchange",
+    "ice_body"
+   ],
+   "weight": 210,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "baxcaliburmega",
+   "name": "超级戟脊龙",
+   "name_en": "Baxcalibur-Mega",
+   "types": [
+    "dragon",
+    "ice"
+   ],
+   "base": {
+    "hp": 115,
+    "atk": 175,
+    "def": 117,
+    "spa": 105,
+    "spd": 101,
+    "spe": 87
+   },
+   "abilities": [
+    "thermal_exchange",
+    "ice_body"
+   ],
+   "weight": 315,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "pawmot",
+   "name": "巴布土拨",
+   "name_en": "Pawmot",
+   "types": [
+    "electric",
+    "fighting"
+   ],
+   "base": {
+    "hp": 70,
+    "atk": 115,
+    "def": 70,
+    "spa": 70,
+    "spd": 60,
+    "spe": 105
+   },
+   "abilities": [
+    "volt_absorb",
+    "natural_cure",
+    "iron_fist"
+   ],
+   "weight": 41,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "squawkabilly",
+   "name": "怒鹦哥（绿羽毛）",
+   "name_en": "Squawkabilly",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spa": 45,
+    "spd": 51,
+    "spe": 92
+   },
+   "abilities": [
+    "intimidate",
+    "hustle",
+    "guts"
+   ],
+   "weight": 2.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "squawkabillyblue",
+   "name": "怒鹦哥（蓝羽毛）",
+   "name_en": "Squawkabilly-Blue",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spa": 45,
+    "spd": 51,
+    "spe": 92
+   },
+   "abilities": [
+    "intimidate",
+    "hustle",
+    "guts"
+   ],
+   "weight": 2.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "squawkabillyyellow",
+   "name": "怒鹦哥（黄羽毛）",
+   "name_en": "Squawkabilly-Yellow",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spa": 45,
+    "spd": 51,
+    "spe": 92
+   },
+   "abilities": [
+    "intimidate",
+    "hustle",
+    "sheer_force"
+   ],
+   "weight": 2.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "squawkabillywhite",
+   "name": "怒鹦哥（白羽毛）",
+   "name_en": "Squawkabilly-White",
+   "types": [
+    "normal",
+    "flying"
+   ],
+   "base": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spa": 45,
+    "spd": 51,
+    "spe": 92
+   },
+   "abilities": [
+    "intimidate",
+    "hustle",
+    "sheer_force"
+   ],
+   "weight": 2.4,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "garganacl",
+   "name": "盐石巨灵",
+   "name_en": "Garganacl",
+   "types": [
+    "rock"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 100,
+    "def": 130,
+    "spa": 45,
+    "spd": 90,
+    "spe": 35
+   },
+   "abilities": [
+    "purifying_salt",
+    "sturdy",
+    "clear_body"
+   ],
+   "weight": 240,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "glimmora",
+   "name": "晶光花",
+   "name_en": "Glimmora",
+   "types": [
+    "rock",
+    "poison"
+   ],
+   "base": {
+    "hp": 83,
+    "atk": 55,
+    "def": 90,
+    "spa": 130,
+    "spd": 81,
+    "spe": 86
+   },
+   "abilities": [
+    "toxic_debris",
+    "corrosion"
+   ],
+   "weight": 45,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "glimmoramega",
+   "name": "超级晶光花",
+   "name_en": "Glimmora-Mega",
+   "types": [
+    "rock",
+    "poison"
+   ],
+   "base": {
+    "hp": 83,
+    "atk": 90,
+    "def": 105,
+    "spa": 150,
+    "spd": 96,
+    "spe": 101
+   },
+   "abilities": [
+    "adaptability"
+   ],
+   "weight": 77,
+   "nfe": false,
+   "tags": [
+    "mega"
+   ]
+  },
+  {
+   "id": "mabosstiff",
+   "name": "獒教父",
+   "name_en": "Mabosstiff",
+   "types": [
+    "dark"
+   ],
+   "base": {
+    "hp": 80,
+    "atk": 120,
+    "def": 90,
+    "spa": 60,
+    "spd": 70,
+    "spe": 85
+   },
+   "abilities": [
+    "intimidate",
+    "guard_dog",
+    "stakeout"
+   ],
+   "weight": 61,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "gholdengo",
+   "name": "赛富豪",
+   "name_en": "Gholdengo",
+   "types": [
+    "steel",
+    "ghost"
+   ],
+   "base": {
+    "hp": 87,
+    "atk": 60,
+    "def": 95,
+    "spa": 133,
+    "spd": 91,
+    "spe": 84
+   },
+   "abilities": [
+    "good_as_gold"
+   ],
+   "weight": 30,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "tinkaton",
+   "name": "巨锻匠",
+   "name_en": "Tinkaton",
+   "types": [
+    "fairy",
+    "steel"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 75,
+    "def": 77,
+    "spa": 70,
+    "spd": 105,
+    "spe": 94
+   },
+   "abilities": [
+    "mold_breaker",
+    "own_tempo",
+    "pickpocket"
+   ],
+   "weight": 112.8,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "armarouge",
+   "name": "红莲铠骑",
+   "name_en": "Armarouge",
+   "types": [
+    "fire",
+    "psychic"
+   ],
+   "base": {
+    "hp": 85,
+    "atk": 60,
+    "def": 100,
+    "spa": 125,
+    "spd": 80,
+    "spe": 75
+   },
+   "abilities": [
+    "flash_fire",
+    "weak_armor"
+   ],
+   "weight": 85,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "ceruledge",
+   "name": "苍炎刃鬼",
+   "name_en": "Ceruledge",
+   "types": [
+    "fire",
+    "ghost"
+   ],
+   "base": {
+    "hp": 75,
+    "atk": 125,
+    "def": 80,
+    "spa": 60,
+    "spd": 100,
+    "spe": 85
+   },
+   "abilities": [
+    "flash_fire",
+    "weak_armor"
+   ],
+   "weight": 62,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "kingambit",
+   "name": "仆刀将军",
+   "name_en": "Kingambit",
+   "types": [
+    "dark",
+    "steel"
+   ],
+   "base": {
+    "hp": 100,
+    "atk": 135,
+    "def": 120,
+    "spa": 60,
+    "spd": 85,
+    "spe": 50
+   },
+   "abilities": [
+    "defiant",
+    "supreme_overlord",
+    "pressure"
+   ],
+   "weight": 120,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "annihilape",
+   "name": "弃世猴",
+   "name_en": "Annihilape",
+   "types": [
+    "fighting",
+    "ghost"
+   ],
+   "base": {
+    "hp": 110,
+    "atk": 115,
+    "def": 80,
+    "spa": 50,
+    "spd": 90,
+    "spe": 90
+   },
+   "abilities": [
+    "vital_spirit",
+    "inner_focus",
+    "defiant"
+   ],
+   "weight": 56,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "sinistcha",
+   "name": "来悲粗茶（凡作）",
+   "name_en": "Sinistcha",
+   "types": [
+    "grass",
+    "ghost"
+   ],
+   "base": {
+    "hp": 71,
+    "atk": 60,
+    "def": 106,
+    "spa": 121,
+    "spd": 80,
+    "spe": 70
+   },
+   "abilities": [
+    "hospitality",
+    "heatproof"
+   ],
+   "weight": 2.2,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "archaludon",
+   "name": "铝钢桥龙",
+   "name_en": "Archaludon",
+   "types": [
+    "steel",
+    "dragon"
+   ],
+   "base": {
+    "hp": 90,
+    "atk": 105,
+    "def": 130,
+    "spa": 125,
+    "spd": 65,
+    "spe": 85
+   },
+   "abilities": [
+    "stamina",
+    "sturdy",
+    "stalwart"
+   ],
+   "weight": 60,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "hydrapple",
+   "name": "蜜集大蛇",
+   "name_en": "Hydrapple",
+   "types": [
+    "grass",
+    "dragon"
+   ],
+   "base": {
+    "hp": 106,
+    "atk": 80,
+    "def": 110,
+    "spa": 120,
+    "spd": 80,
+    "spe": 44
+   },
+   "abilities": [
+    "supersweet_syrup",
+    "regenerator",
+    "sticky_hold"
+   ],
+   "weight": 93,
+   "nfe": false,
+   "tags": []
+  },
+  {
+   "id": "meowsticf",
+   "name": "超能妙喵（雌性）",
+   "name_en": "Meowstic-F",
+   "types": [
+    "psychic"
+   ],
+   "base": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spa": 83,
+    "spd": 81,
+    "spe": 104
+   },
+   "abilities": [
+    "keen_eye",
+    "infiltrator",
+    "competitive"
+   ],
+   "weight": 8.5,
+   "nfe": false,
+   "tags": [
+    "gender"
+   ]
+  }
+ ]
+}
