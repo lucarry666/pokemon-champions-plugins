@@ -1,0 +1,812 @@
+{
+ "schema": 1,
+ "source": "Pokémon Champions teamlists + curated",
+ "entries": [
+  {
+   "id": "absolite_z",
+   "name_en": "Absolite Z",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级阿勃梭鲁Ｚ进化石"
+  },
+  {
+   "id": "aerodactylite",
+   "name_en": "Aerodactylite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级化石翼龙进化石"
+  },
+  {
+   "id": "air_balloon",
+   "name_en": "Air Balloon",
+   "category": "other",
+   "implemented": true,
+   "description": "未受伤时免疫地面招式。",
+   "name": "气球"
+  },
+  {
+   "id": "alakazite",
+   "name_en": "Alakazite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级胡地进化石"
+  },
+  {
+   "id": "assault_vest",
+   "name_en": "Assault Vest",
+   "category": "defense",
+   "implemented": true,
+   "description": "特防提升 50%，但不能使用变化招。",
+   "name": "突击背心"
+  },
+  {
+   "id": "barbaracite",
+   "name_en": "Barbaracite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级重泥挽马进化石"
+  },
+  {
+   "id": "black_belt",
+   "name_en": "Black Belt",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "黑带",
+   "effect": "type_boost",
+   "boost_type": "fighting",
+   "factor": 1.2
+  },
+  {
+   "id": "black_glasses",
+   "name_en": "Black Glasses",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "黑眼镜",
+   "effect": "type_boost",
+   "boost_type": "dark",
+   "factor": 1.2
+  },
+  {
+   "id": "blastoisinite",
+   "name_en": "Blastoisinite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级水箭龟进化石"
+  },
+  {
+   "id": "blazikenite",
+   "name_en": "Blazikenite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级火焰鸡进化石"
+  },
+  {
+   "id": "bright_powder",
+   "name_en": "Bright Powder",
+   "category": "other",
+   "implemented": false,
+   "description": "对手命中率降低 10%。",
+   "name": "光粉"
+  },
+  {
+   "id": "cameruptite",
+   "name_en": "Cameruptite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级喷火驼进化石"
+  },
+  {
+   "id": "chandelurite",
+   "name_en": "Chandelurite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级水晶灯火灵进化石"
+  },
+  {
+   "id": "charcoal",
+   "name_en": "Charcoal",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "木炭",
+   "effect": "type_boost",
+   "boost_type": "fire",
+   "factor": 1.2
+  },
+  {
+   "id": "charizardite_x",
+   "name_en": "Charizardite X",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级喷火龙Ｘ进化石"
+  },
+  {
+   "id": "charizardite_y",
+   "name_en": "Charizardite Y",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级喷火龙Ｙ进化石"
+  },
+  {
+   "id": "charti_berry",
+   "name_en": "Charti Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "莓榴果"
+  },
+  {
+   "id": "choice_band",
+   "name_en": "Choice Band",
+   "category": "attack",
+   "implemented": true,
+   "description": "攻击提升 50%，但只能使用同一招。",
+   "name": "讲究头带"
+  },
+  {
+   "id": "choice_scarf",
+   "name_en": "Choice Scarf",
+   "category": "speed",
+   "implemented": false,
+   "description": "速度提升 50%，但只能使用同一招。",
+   "name": "讲究围巾"
+  },
+  {
+   "id": "choice_specs",
+   "name_en": "Choice Specs",
+   "category": "attack",
+   "implemented": true,
+   "description": "特攻提升 50%，但只能使用同一招。",
+   "name": "讲究眼镜"
+  },
+  {
+   "id": "chople_berry",
+   "name_en": "Chople Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "腰木果"
+  },
+  {
+   "id": "clefablite",
+   "name_en": "Clefablite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级皮可西进化石"
+  },
+  {
+   "id": "colbur_berry",
+   "name_en": "Colbur Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "刺耳果"
+  },
+  {
+   "id": "damp_rock",
+   "name_en": "Damp Rock",
+   "category": "weather",
+   "implemented": false,
+   "description": "雨天持续时间延长。",
+   "name": "潮湿岩石"
+  },
+  {
+   "id": "delphoxite",
+   "name_en": "Delphoxite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级妖火红狐进化石"
+  },
+  {
+   "id": "dragalgite",
+   "name_en": "Dragalgite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级毒藻龙进化石"
+  },
+  {
+   "id": "dragon_fang",
+   "name_en": "Dragon Fang",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "龙之牙",
+   "effect": "type_boost",
+   "boost_type": "dragon",
+   "factor": 1.2
+  },
+  {
+   "id": "dragoninite",
+   "name_en": "Dragoninite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级快龙进化石"
+  },
+  {
+   "id": "eelektrossite",
+   "name_en": "Eelektrossite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级麻麻鳗鱼王进化石"
+  },
+  {
+   "id": "eject_button",
+   "name_en": "Eject Button",
+   "category": "other",
+   "implemented": false,
+   "description": "受到伤害后与后备宝可梦交换。",
+   "name": "逃脱按钮"
+  },
+  {
+   "id": "electric_seed",
+   "name_en": "Electric Seed",
+   "category": "defense",
+   "implemented": false,
+   "description": "电气场地下防御提升 1 级。",
+   "name": "电气种子"
+  },
+  {
+   "id": "eviolite",
+   "name_en": "Eviolite",
+   "category": "defense",
+   "implemented": true,
+   "description": "未进化宝可梦防御与特防提升 50%。",
+   "name": "进化奇石"
+  },
+  {
+   "id": "expert_belt",
+   "name_en": "Expert Belt",
+   "category": "damage",
+   "implemented": true,
+   "description": "对效果拔群的对手招式威力提升 20%。",
+   "name": "达人带"
+  },
+  {
+   "id": "factory_pass",
+   "name_en": "Factory Pass",
+   "category": "other",
+   "implemented": false,
+   "description": "",
+   "name": "工厂通行证"
+  },
+  {
+   "id": "fairy_feather",
+   "name_en": "Fairy Feather",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "神奇羽毛",
+   "effect": "type_boost",
+   "boost_type": "fairy",
+   "factor": 1.2
+  },
+  {
+   "id": "floettite",
+   "name_en": "Floettite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级花叶蒂进化石"
+  },
+  {
+   "id": "focus_sash",
+   "name_en": "Focus Sash",
+   "category": "survive",
+   "implemented": false,
+   "description": "满 HP 时受到致命伤害保留 1 HP，仅一次。",
+   "name": "气势披带"
+  },
+  {
+   "id": "froslassite",
+   "name_en": "Froslassite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级雪妖女进化石"
+  },
+  {
+   "id": "galladite",
+   "name_en": "Galladite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级艾路雷朵进化石"
+  },
+  {
+   "id": "garchompite_z",
+   "name_en": "Garchompite Z",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级烈咬陆鲨Ｚ进化石"
+  },
+  {
+   "id": "gardevoirite",
+   "name_en": "Gardevoirite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级沙奈朵进化石"
+  },
+  {
+   "id": "gengarite",
+   "name_en": "Gengarite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级耿鬼进化石"
+  },
+  {
+   "id": "glimmoranite",
+   "name_en": "Glimmoranite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级晶光花进化石"
+  },
+  {
+   "id": "golisopite",
+   "name_en": "Golisopite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级爆焰龟兽进化石"
+  },
+  {
+   "id": "grassy_seed",
+   "name_en": "Grassy Seed",
+   "category": "defense",
+   "implemented": false,
+   "description": "青草场地下防御提升 1 级。",
+   "name": "青草种子"
+  },
+  {
+   "id": "gyaradosite",
+   "name_en": "Gyaradosite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级暴鲤龙进化石"
+  },
+  {
+   "id": "haban_berry",
+   "name_en": "Haban Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "星桃果"
+  },
+  {
+   "id": "hard_stone",
+   "name_en": "Hard Stone",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "硬石头",
+   "effect": "type_boost",
+   "boost_type": "rock",
+   "factor": 1.2
+  },
+  {
+   "id": "heracronite",
+   "name_en": "Heracronite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级赫拉克罗斯进化石"
+  },
+  {
+   "id": "kangaskhanite",
+   "name_en": "Kangaskhanite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级袋兽进化石"
+  },
+  {
+   "id": "kasib_berry",
+   "name_en": "Kasib Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "佛柑果"
+  },
+  {
+   "id": "leftovers",
+   "name_en": "Leftovers",
+   "category": "heal",
+   "implemented": false,
+   "description": "每回合结束恢复最大 HP 的 1/16。",
+   "name": "吃剩的东西"
+  },
+  {
+   "id": "life_orb",
+   "name_en": "Life Orb",
+   "category": "damage",
+   "implemented": true,
+   "description": "招式威力提升 30%，每次攻击损失少量 HP。",
+   "name": "生命宝珠"
+  },
+  {
+   "id": "light_clay",
+   "name_en": "Light Clay",
+   "category": "other",
+   "implemented": false,
+   "description": "",
+   "name": "光之黏土"
+  },
+  {
+   "id": "lucarionite_z",
+   "name_en": "Lucarionite Z",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级路卡利欧Ｚ进化石"
+  },
+  {
+   "id": "magnet",
+   "name_en": "Magnet",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "磁铁",
+   "effect": "type_boost",
+   "boost_type": "electric",
+   "factor": 1.2
+  },
+  {
+   "id": "malamarite",
+   "name_en": "Malamarite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级乌贼王进化石"
+  },
+  {
+   "id": "manectite",
+   "name_en": "Manectite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级雷电兽进化石"
+  },
+  {
+   "id": "mawilite",
+   "name_en": "Mawilite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级大嘴娃进化石"
+  },
+  {
+   "id": "meganiumite",
+   "name_en": "Meganiumite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级大竺葵进化石"
+  },
+  {
+   "id": "mental_herb",
+   "name_en": "Mental Herb",
+   "category": "other",
+   "implemented": false,
+   "description": "解除一次无法行动的效果。",
+   "name": "精神香草"
+  },
+  {
+   "id": "meowsticite",
+   "name_en": "Meowsticite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级超能妙喵进化石"
+  },
+  {
+   "id": "metagrossite",
+   "name_en": "Metagrossite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级巨金怪进化石"
+  },
+  {
+   "id": "metal_coat",
+   "name_en": "Metal Coat",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "金属膜",
+   "effect": "type_boost",
+   "boost_type": "steel",
+   "factor": 1.2
+  },
+  {
+   "id": "miracle_seed",
+   "name_en": "Miracle Seed",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "奇异种子",
+   "effect": "type_boost",
+   "boost_type": "grass",
+   "factor": 1.2
+  },
+  {
+   "id": "mystic_water",
+   "name_en": "Mystic Water",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "神秘水滴",
+   "effect": "type_boost",
+   "boost_type": "water",
+   "factor": 1.2
+  },
+  {
+   "id": "never_melt_ice",
+   "name_en": "Never-Melt Ice",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "不熔冰",
+   "effect": "type_boost",
+   "boost_type": "ice",
+   "factor": 1.2
+  },
+  {
+   "id": "occa_berry",
+   "name_en": "Occa Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "抗火果"
+  },
+  {
+   "id": "poison_barb",
+   "name_en": "Poison Barb",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "毒针",
+   "effect": "type_boost",
+   "boost_type": "poison",
+   "factor": 1.2
+  },
+  {
+   "id": "psychic_seed",
+   "name_en": "Psychic Seed",
+   "category": "defense",
+   "implemented": false,
+   "description": "精神场地下特防提升 1 级。",
+   "name": "精神种子"
+  },
+  {
+   "id": "quick_claw",
+   "name_en": "Quick Claw",
+   "category": "speed",
+   "implemented": false,
+   "description": "有几率无视速度先制行动。",
+   "name": "先制之爪"
+  },
+  {
+   "id": "raichunite_x",
+   "name_en": "Raichunite X",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级雷丘Ｘ进化石"
+  },
+  {
+   "id": "raichunite_y",
+   "name_en": "Raichunite Y",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级雷丘Ｙ进化石"
+  },
+  {
+   "id": "rocky_helmet",
+   "name_en": "Rocky Helmet",
+   "category": "damage",
+   "implemented": false,
+   "description": "受到接触类招式时反伤对手最大 HP 的 1/6。",
+   "name": "凸凸头盔"
+  },
+  {
+   "id": "salamencite",
+   "name_en": "Salamencite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级暴飞龙进化石"
+  },
+  {
+   "id": "sceptilite",
+   "name_en": "Sceptilite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级蜥蜴王进化石"
+  },
+  {
+   "id": "sharp_beak",
+   "name_en": "Sharp Beak",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "锐利鸟喙",
+   "effect": "type_boost",
+   "boost_type": "flying",
+   "factor": 1.2
+  },
+  {
+   "id": "silk_scarf",
+   "name_en": "Silk Scarf",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "丝绸围巾",
+   "effect": "type_boost",
+   "boost_type": "normal",
+   "factor": 1.2
+  },
+  {
+   "id": "silver_powder",
+   "name_en": "Silver Powder",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "银色粉末",
+   "effect": "type_boost",
+   "boost_type": "bug",
+   "factor": 1.2
+  },
+  {
+   "id": "sitrus_berry",
+   "name_en": "Sitrus Berry",
+   "category": "heal",
+   "implemented": false,
+   "description": "HP 低于一半时恢复 25% 最大 HP。",
+   "name": "文柚果"
+  },
+  {
+   "id": "soft_sand",
+   "name_en": "Soft Sand",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "软沙",
+   "effect": "type_boost",
+   "boost_type": "ground",
+   "factor": 1.2
+  },
+  {
+   "id": "spell_tag",
+   "name_en": "Spell Tag",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "咒符",
+   "effect": "type_boost",
+   "boost_type": "ghost",
+   "factor": 1.2
+  },
+  {
+   "id": "staraptite",
+   "name_en": "Staraptite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级姆克鹰进化石"
+  },
+  {
+   "id": "starminite",
+   "name_en": "Starminite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级宝石海星进化石"
+  },
+  {
+   "id": "steelixite",
+   "name_en": "Steelixite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级大钢蛇进化石"
+  },
+  {
+   "id": "swampertite",
+   "name_en": "Swampertite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级巨沼怪进化石"
+  },
+  {
+   "id": "twisted_spoon",
+   "name_en": "Twisted Spoon",
+   "category": "type_boost",
+   "implemented": true,
+   "description": "对应属性招式威力提升 20%。",
+   "name": "歪曲的勺子",
+   "effect": "type_boost",
+   "boost_type": "psychic",
+   "factor": 1.2
+  },
+  {
+   "id": "tyranitarite",
+   "name_en": "Tyranitarite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级班基拉斯进化石"
+  },
+  {
+   "id": "victreebelite",
+   "name_en": "Victreebelite",
+   "category": "mega_stone",
+   "implemented": false,
+   "description": "超级进化石。",
+   "name": "超级大食花进化石"
+  },
+  {
+   "id": "weakness_policy",
+   "name_en": "Weakness Policy",
+   "category": "attack",
+   "implemented": false,
+   "description": "受到效果拔群伤害时攻击与特攻各提升 2 级。",
+   "name": "弱点保险"
+  },
+  {
+   "id": "white_herb",
+   "name_en": "White Herb",
+   "category": "other",
+   "implemented": false,
+   "description": "能力被降低时恢复一次。",
+   "name": "白色香草"
+  },
+  {
+   "id": "wide_lens",
+   "name_en": "Wide Lens",
+   "category": "other",
+   "implemented": false,
+   "description": "命中率提升 10%。",
+   "name": "广角镜"
+  },
+  {
+   "id": "yache_berry",
+   "name_en": "Yache Berry",
+   "category": "berry",
+   "implemented": false,
+   "description": "一次性果，受到特定条件时自动消耗。",
+   "name": "龙睛果"
+  },
+  {
+   "id": "zoom_lens",
+   "name_en": "Zoom lens",
+   "category": "other",
+   "implemented": false,
+   "description": "",
+   "name": "对焦镜"
+  }
+ ]
+}
