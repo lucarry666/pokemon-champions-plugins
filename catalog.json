@@ -24,26 +24,6 @@
       "capabilities": [
         "speed_benchmark"
       ]
-    },
-    {
-      "id": "changelog",
-      "name": "更新日志",
-      "version": "1.0.0",
-      "type": "data",
-      "description": "查看伤害计算器的更新记录",
-      "download_url": "https://raw.githubusercontent.com/lucarry666/pokemon-champions-plugins/main/plugins/changelog/plugin.json",
-      "min_app_version": "0.6.2",
-      "capabilities": []
-    },
-    {
-      "id": "faq",
-      "name": "常见问题",
-      "version": "1.0.0",
-      "type": "data",
-      "description": "冠军规则的常见问题解答",
-      "download_url": "https://raw.githubusercontent.com/lucarry666/pokemon-champions-plugins/main/plugins/faq/plugin.json",
-      "min_app_version": "0.6.2",
-      "capabilities": []
     }
   ]
 }
